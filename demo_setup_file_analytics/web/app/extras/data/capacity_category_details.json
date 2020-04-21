@@ -1,0 +1,19 @@
+{
+  "entities": [
+    {
+      "added": 307200000.0,
+      "details": {
+        "id": "other_file_types",
+        "name": "other_file_types"
+      },
+      "removed": 0.0
+    }
+  ],
+  "metadata": {
+    "count": 1,
+    "next_page_id": "other_file_types",
+    "page": 0,
+    "total": 1,
+    "type": "category"
+  }
+}

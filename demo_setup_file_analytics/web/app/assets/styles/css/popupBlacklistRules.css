@@ -1,0 +1,28 @@
+#blacklistRulesPopupView {
+  width: 1000px;
+}
+#blacklistRulesPopupView table {
+  font-size: 12px;
+}
+#blacklistRulesPopupView table td {
+  height: 34px;
+}
+#blacklistRulesPopupView .table > thead:first-child > tr:first-child > th .more-info {
+  vertical-align: text-top;
+}
+#blacklistRulesPopupView .blacklistRulesTable thead > tr > th:nth-child(1){
+  width: 25%;
+}
+#blacklistRulesPopupView .blacklistRulesTable .table > tbody > tr > td:first-child input[type="text"][disabled]{
+  background: white;
+  color: black;
+}
+.filter-bubbles {
+  flex-wrap: wrap;
+}
+#blacklistRulesPopupView .auto-complete-results.n-spotlight-results {
+  margin-top: 0px;
+}
+#blacklistRulesPopupView .loader {
+  text-align: center;
+}

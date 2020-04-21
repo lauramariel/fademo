@@ -1,0 +1,534 @@
+{
+  "entities": [
+    {
+      "metric": "FileCreate",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1560748542255.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560749400000.0
+        },
+        {
+          "count": 60,
+          "epoch_time": 1560753000000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560756600000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560760200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560763800000.0
+        },
+        {
+          "count": 60,
+          "epoch_time": 1560767400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560771000000.0
+        },
+        {
+          "count": 60,
+          "epoch_time": 1560774600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560778200000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560781800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560785400000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560789000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560792600000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560796200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560799800000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560803400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560807000000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560810600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560814200000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560817800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560821400000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560825000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560828600000.0
+        },
+        {
+          "count": 40,
+          "epoch_time": 1560832200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileRead",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1560748542255.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560749400000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560753000000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560756600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560760200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560763800000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560767400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560771000000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560774600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560778200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560781800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560785400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560789000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560792600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560796200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560799800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560803400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560807000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560810600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560814200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560817800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560821400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560825000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560828600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560832200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileWrite",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1560748542255.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560749400000.0
+        },
+        {
+          "count": 960,
+          "epoch_time": 1560753000000.0
+        },
+        {
+          "count": 400,
+          "epoch_time": 1560756600000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560760200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560763800000.0
+        },
+        {
+          "count": 960,
+          "epoch_time": 1560767400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560771000000.0
+        },
+        {
+          "count": 960,
+          "epoch_time": 1560774600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560778200000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560781800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560785400000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560789000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560792600000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560796200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560799800000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560803400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560807000000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560810600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560814200000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560817800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560821400000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560825000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560828600000.0
+        },
+        {
+          "count": 560,
+          "epoch_time": 1560832200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileDelete",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1560748542255.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560749400000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560753000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560756600000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560760200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560763800000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560767400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560771000000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560774600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560778200000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560781800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560785400000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560789000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560792600000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560796200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560799800000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560803400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560807000000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560810600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560814200000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560817800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560821400000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560825000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560828600000.0
+        },
+        {
+          "count": 20,
+          "epoch_time": 1560832200000.0
+        }
+      ]
+    },
+    {
+      "metric": "SecurityChange",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1560748542255.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560749400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560753000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560756600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560760200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560763800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560767400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560771000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560774600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560778200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560781800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560785400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560789000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560792600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560796200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560799800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560803400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560807000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560810600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560814200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560817800000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560821400000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560825000000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560828600000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560832200000.0
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "count": 5,
+    "page": 0,
+    "total": 5
+  }
+}

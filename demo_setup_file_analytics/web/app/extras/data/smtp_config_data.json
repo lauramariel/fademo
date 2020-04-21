@@ -1,0 +1,9 @@
+{
+  "from_email_id": "analytics_auto1@zimbramail.child4.afs.minerva.com",
+  "id": "smtp_config",
+  "is_verified": true,
+  "smtp_auth": "STARTTLS",
+  "smtp_host": "zimbramail.child4.afs.minerva.com",
+  "smtp_port": 587,
+  "smtp_user": "analytics_auto1@zimbramail.child4.afs.minerva.com"
+}

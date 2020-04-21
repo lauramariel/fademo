@@ -1,0 +1,27 @@
+<!-- Page Subnavigation -->
+<div class="n-page-nav">
+  <!-- @view: Subnavigation View goes here... -->
+</div>
+
+<!-- Page Body -->
+<div class="n-page-body">
+
+  <!-- Master -->
+  <div class="n-page-master">
+
+    <% _.each(subpageMap, function(key) { %>
+      <div class="n-subpage  n-subpage-<%= key %>"
+        subpage="<%= key %>">
+        <!-- @view: Subpage view goes here... -->
+      </div>
+    <% }); %>
+
+  </div>
+
+  <!-- Detail -->
+  <% if (typeof subpageMap.detail !== 'undefined') { %>
+    <div class="n-page-detail">
+    </div>
+  <% } %>
+
+</div>

@@ -1,0 +1,55 @@
+<div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+      <div class="enable-heading text-center">
+        <h2>Enable File Analytics</h2>
+      </div>
+    </div>
+    <div data-ntnx-section="type-separator" class="col-md-4 col-md-offset-4">
+      <table class="dataTable">
+        <tbody>
+          <tr class="odd">
+            <td>File Analytics Server</td>
+            <td class="faStatus"><%= fsTempl %></td>
+          </tr>
+          <tr class="even">
+            <td>File Server</td>
+            <td><%= fileServerName %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-ntnx-section="type-separator"
+      class="col-md-4 col-md-offset-4 alertContainer hide">
+      <div data-ntnx-section="type-text" class="alert alert-error">
+        <button type="button" class="close" data-dismiss="modal">
+          <i data-icon="K" aria-hidden="true"></i>
+        </button>
+        <h4></h4>
+      </div>
+    </div>
+    <form>
+      <div id="enableFileserverContainer" class="col-md-4 col-md-offset-4">
+        <div data-ntnx-section="type-separator" class="dataRetentionContainer">
+          <label data-ntnx-label>
+            Data Retention
+            <span class="nutanixMoreInfo"
+              data-tooltip-classes="-nudge-up"
+              data-tooltip-container="body"
+              data-tooltip-title="<%= dataRetentionTooltip %>">
+            </span>
+          </label>
+          <%= Components.select({
+            jsClasses: 'dataRetentionOptions',
+            options: dataRetentionOptions
+          }) %>
+        </div>
+        <!-- File server subscription form template goes here -->
+      </div>
+      <div data-ntnx-section="type-separator"
+        class="col-md-4 col-md-offset-4 text-right">
+        <button class="btn n-primary-btn btnEnable">Enable</button>
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+#popupMetaDataCollection {
+  width: 600px;
+}
+.metadataForm [data-ntnx-section="type-text"] {
+  padding-bottom: 15px;
+}
+.metadataForm .n-checkbox-container {
+  padding-right: 5px !important;
+}
+.metadataForm .tooltip .tooltip-inner {
+  white-space: initial;
+}
+#popupMetaDataCollection .noData {
+  top: 50%;
+}

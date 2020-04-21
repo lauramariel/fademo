@@ -1,0 +1,10 @@
+#fsUpdateFileCategoryPopupView {
+  width: 1000px;
+}
+#fsUpdateFileCategoryPopupView .fileCategoryTable thead > tr > th:nth-child(1){
+	width: 25%;
+}
+#fsUpdateFileCategoryPopupView .fileCategoryTable thead > tr > th:nth-child(2){
+	text-align: left;
+	width: auto;
+}

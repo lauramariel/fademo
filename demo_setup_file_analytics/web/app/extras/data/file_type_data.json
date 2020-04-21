@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "count": 140,
+      "name": "archives",
+      "size": 164063184761
+    },
+    {
+      "count": 137,
+      "name": "ms_office_documents",
+      "size": 56036145855
+    },
+    {
+      "count": 119,
+      "name": "log_files",
+      "size": 56016553997
+    },
+    {
+      "count": 82,
+      "name": "installers",
+      "size": 163159420552
+    },
+    {
+      "count": 94,
+      "name": "adobe_acrobat",
+      "size": 55700297034
+    },
+    {
+      "count": 104,
+      "name": "backups",
+      "size": 55585789527
+    },
+    {
+      "count": 79,
+      "name": "system_files",
+      "size": 162952093591
+    },
+    {
+      "count": 108,
+      "name": "audio",
+      "size": 55305546137
+    },
+    {
+      "count": 87,
+      "name": "video",
+      "size": 574752595049.9199
+    },
+    {
+      "count": 95,
+      "name": "cd_dvd_images",
+      "size": 377359795276
+    },
+    {
+      "count": 121,
+      "name": "images",
+      "size": 269875731481
+    },
+    {
+      "count": 127,
+      "name": "text_files",
+      "size": 55119217337
+    },
+    {
+      "count": 77,
+      "name": "disk_image",
+      "size": 269493369363
+    },
+    {
+      "count": 133,
+      "name": "other_file_types",
+      "size": 268435536066
+    },
+    {
+      "count": 0,
+      "name": "desktop_publishing",
+      "size": 0
+    },
+    {
+      "count": 0,
+      "name": "hard_drive_images",
+      "size": 0
+    },
+    {
+      "count": 0,
+      "name": "no_extensions",
+      "size": 0
+    },
+    {
+      "count": 0,
+      "name": "email_archives",
+      "size": 0
+    },
+    {
+      "count": 0,
+      "name": "lotus_notes",
+      "size": 0
+    }
+  ],
+  "metadata": {
+    "count": 19,
+    "page": 0,
+    "total": 19,
+    "type": "categories"
+  }
+}

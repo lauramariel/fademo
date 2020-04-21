@@ -1,0 +1,101 @@
+#dashboardpopupView {
+  width: 500px;
+}
+#dashboardpopupView .n-modal-wrapper .n-modal-body {
+  overflow: hidden;
+  display: flex;
+  font-size: 14px;
+  max-height: none;
+}
+#dashboardpopupView .n-modal-wrapper .n-modal-body .n-modal-content-wrapper {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+#dashboardpopupView .n-modal-wrapper {
+  border: 1px solid #f2f4f6;
+  border-top-width: 0;
+  position: relative;
+  z-index: 1;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+#dashboardpopupView .n-modal-alert-header {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  display: none;
+  box-sizing: border-box;
+  border-left: 1px solid #f2f4f6;
+  border-right: 1px solid #f2f4f6;
+  position: relative;
+  z-index: 2;
+}
+#dashboardpopupView .n-modal-alert-header .alert {
+  border: none;
+  border-width: 0;
+  border-radius: 0;
+  text-align: left;
+  padding: 11px 20px;
+  margin: 0;
+}
+#dashboardpopupView .n-modal-alert-header .alert .close {
+  color: inherit;
+  text-shadow: none;
+  line-height: 0;
+  padding: 4px;
+  margin: 1px -4px 0 0;
+}
+#dashboardpopupView .n-modal-alert-header .alert .close .svg-icon {
+  height: 8px;
+  width: 8px;
+}
+#dashboardpopupView .n-modal-alert-header .alert h4 {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: left;
+  text-shadow: none;
+  word-wrap: break-word;
+}
+#dashboardpopupView .n-modal-alert-header .alert h4 a {
+  display: inline-block;
+  color: inherit;
+  text-decoration: underline;
+}
+#dashboardpopupView .n-modal-alert-header .alert h4 a::after {
+  content: '\203A';
+}
+#dashboardpopupView .n-modal-alert-header .alert .alert-section:not(:first-child) {
+  margin-top: 10px;
+}
+#dashboardpopupView .n-modal-content {
+  max-height: 490px;
+  flex-grow: 1;
+}
+#dashboardpopupView .n-modal-content.scroll {
+  overflow: auto;
+}
+#dashboardpopupView .n-modal-content [data-ntnx-content-inner] {
+  padding: 0 20px 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+#dashboardpopupView .n-modal-content [data-ntnx-section][data-ntnx-section*="type-half"] {
+  clear: none;
+}
+
+#dashboardpopupView .select-all-metrics {
+  padding-bottom: 20px;
+}
+#dashboardpopupView .n-modal-content [data-ntnx-section*="type-half"]:nth-child(n+3) {
+  padding-top: 10px;
+}
+
+#dashboardpopupView .n-modal-wrapper .n-modal-body .n-modal-content-wrapper .n-modal-content .antiscroll-wrap {
+  display: block;
+}
+#dashboardpopupView .mark-as-default {
+  padding-top:40px !important;
+}

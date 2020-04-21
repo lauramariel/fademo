@@ -1,0 +1,9 @@
+{
+  "moduleName": "lib",
+  "modules": [
+    "jquery",
+    "underscore",
+    "backbone",
+    "bootstrap"
+  ]
+}

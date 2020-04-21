@@ -1,0 +1,192 @@
+{
+  "entities": [
+    {
+      "metric": "desktop_publishing",
+      "values": [
+        "qxd"
+      ]
+    },
+    {
+      "metric": "disk_image",
+      "values": [
+        "vmtm",
+        "vmem",
+        "vmsn",
+        "nvram",
+        "vmdk",
+        "vmx",
+        "hlog",
+        "vmsd",
+        "vmxf"
+      ]
+    },
+    {
+      "metric": "hard_drive_images",
+      "values": [
+        "gho",
+        "tib",
+        "ghs"
+      ]
+    },
+    {
+      "metric": "text_files",
+      "values": [
+        "txt",
+        "csv"
+      ]
+    },
+    {
+      "metric": "email_archives",
+      "values": [
+        "pst"
+      ]
+    },
+    {
+      "metric": "installers",
+      "values": [
+        "rpm",
+        "msi"
+      ]
+    },
+    {
+      "metric": "other_file_types",
+      "values": null
+    },
+    {
+      "metric": "system_files",
+      "values": [
+        "bin",
+        "exe",
+        "dll"
+      ]
+    },
+    {
+      "metric": "adobe_acrobat",
+      "values": [
+        "pdf"
+      ]
+    },
+    {
+      "metric": "ms_office_documents",
+      "values": [
+        "accdb",
+        "xltm",
+        "ppsx",
+        "accde",
+        "mdb",
+        "ppsm",
+        "xltx",
+        "accdt",
+        "ppt",
+        "potx",
+        "ppam",
+        "potm",
+        "pptx",
+        "xlsx",
+        "docx",
+        "dotx",
+        "xlsm",
+        "pptm",
+        "docm",
+        "xlsb",
+        "dotm",
+        "accdr",
+        "doc",
+        "xlam",
+        "xlt",
+        "xls",
+        "dot"
+      ]
+    },
+    {
+      "metric": "archives",
+      "values": [
+        "zip",
+        "tar",
+        "gz",
+        "rar",
+        "cab",
+        "z"
+      ]
+    },
+    {
+      "metric": "no_extensions",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "metric": "log_files",
+      "values": [
+        "log"
+      ]
+    },
+    {
+      "metric": "images",
+      "values": [
+        "tiff",
+        "jpeg",
+        "gif",
+        "bmp",
+        "jpg",
+        "tif",
+        "psd",
+        "png"
+      ]
+    },
+    {
+      "metric": "video",
+      "values": [
+        "mpg",
+        "mpeg",
+        "m4v",
+        "avi",
+        "mov"
+      ]
+    },
+    {
+      "metric": "backups",
+      "values": [
+        "bkf",
+        "bkp",
+        "bak"
+      ]
+    },
+    {
+      "metric": "audio",
+      "values": [
+        "aiff",
+        "mp4",
+        "au",
+        "mp3",
+        "wav",
+        "wma"
+      ]
+    },
+    {
+      "metric": "lotus_notes",
+      "values": [
+        "box",
+        "nsf",
+        "ns2",
+        "ns3",
+        "ns4",
+        "ncf",
+        "ntf"
+      ]
+    },
+    {
+      "metric": "cd_dvd_images",
+      "values": [
+        "nrg",
+        "iso",
+        "img"
+      ]
+    }
+  ],
+  "metadata": {
+    "count": 19,
+    "page": 0,
+    "total": 19
+  }
+}

@@ -1,0 +1,1845 @@
+{
+  "entities": [
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileCreate",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileRead",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user207",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user151",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "Symlink",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user272",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user143",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user191",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileDelete",
+      "audit_status": "Permission denied",
+      "audit_username": "KRAKEN\\kraken_user224",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "10.51.28.192",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "FileWrite",
+      "audit_status": "success",
+      "audit_username": "KRAKEN\\kraken_user264",
+      "audit_objectname": "Adobe_Acrobat_11HTF0LQ.pdf"
+    }
+  ],
+  "metadata": {
+    "count": 204,
+    "page": 0,
+    "total": 204
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "entities": [
+    {
+      "audit_event_date": "2019-06-17T07:04:04Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:03Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:03Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:03Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:03Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SetAttr",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:02Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:02Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:02Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:02Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:02Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "SecurityChange",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    },
+    {
+      "audit_event_date": "2019-06-17T07:04:01Z",
+      "audit_machine_name": "::ffff:10.137.44.143",
+      "audit_object_ID": "d5c2ff4a-941a-4809-9569-d91e7062b954_16_6609400",
+      "audit_operation": "DirectoryCreate",
+      "audit_status": "success",
+      "audit_username": "UID:500"
+    }
+  ],
+  "metadata": {
+    "audit_path": "box2200/nfs1/17_Jun_19_00_06_51/thread_2/Text_Files_0N5LTJL.txt",
+    "count": 11,
+    "page": 0,
+    "total": 11
+  }
+}

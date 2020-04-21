@@ -1,0 +1,183 @@
+#wizardPopup label {
+  display: inline-flex;
+  margin-left: 0;
+
+}
+#wizardPopup hr {
+  border-top: 1px solid #dbdfe1;
+}
+.n-page-info-container {
+  display: inline-flex;
+}
+.n-page-nav-container a {
+  display: inline-flex;
+}
+#wizardPopup .btnNext {
+  display: inline-flex;
+}
+#wizardPopup #audit_operatoin_filter_options label {
+  width: 170px;
+}
+#wizardPopup #filePermission .auditcontent table,
+#wizardPopup #fileAudit .auditcontent table,
+#wizardPopup #userPermission .auditcontent table,
+#wizardPopup #userAudit .auditcontent table {
+  border: 1px solid #dbdfe1 !important;
+}
+#wizardPopup .bttnNext {
+  background: #26bbf0;
+  border: 1px solid #26bbf0;
+  transition: all 0.3s ease;
+  font-smoothing: antialiased;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-shadow: none;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0);
+}
+#wizardPopup .bttnNext:hover,
+#wizardPopup .bttnNext:focus {
+  background: #1fa6d6;
+  border: 1px solid #1fa6d6;
+  color: #ffffff;
+}
+#wizardPopup .bttnNext:active {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.18);
+  background: #26bbf0;
+  border: 1px solid #1790bb;
+}
+#wizardPopup .bttnNext.btn-primary:active,
+#wizardPopup .bttnNext.btn-primary.active {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.18);
+  background: #26bbf0;
+  border: 1px solid #1790bb;
+}
+#wizardPopup .bttnNext.btn-primary.disabled,
+#wizardPopup .bttnNext.btn-primary[disabled] {
+  text-decoration: none;
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.07);
+  transition: background 0.3s ease;
+  opacity: 0.3;
+  background: #26bbf0;
+  border: 1px solid #1790bb;
+}
+#wizardPopup .bttnNext.btn-primary.disabled:hover,
+#wizardPopup .bttnNext.btn-primary[disabled]:hover {
+  text-decoration: none;
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.07);
+  transition: background 0.3s ease;
+  background: #26bbf0;
+  border: 1px solid #1790bb;
+}
+#wizardPopup .bttnPrevious {
+  background-color: #ffffff;
+  border-color: #c4c9cd;
+  background: #ffffff;
+  border: 1px solid #c4c9cd;
+  transition: border 150ms ease color 150ms ease;
+  font-smoothing: antialiased;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  color: #6f787e;
+  letter-spacing: 0.04em;
+  text-shadow: none;
+}
+#wizardPopup .bttnPrevious:focus,
+#wizardPopup .bttnPrevious:hover,
+#wizardPopup .bttnPrevious:active,
+#wizardPopup .bttnPrevious.active {
+  color: #343536;
+  background-color: #ffffff;
+  border-color: #89949b;
+}
+#wizardPopup.audit-history-wizard {
+  width: 100%;
+  max-height: 100%;
+}
+#wizardPopup .date-range-filter {
+  display: inline-flex;
+}
+#wizardPopup .filter-wrapper {
+  width: 100%;
+  display: inline-flex;
+}
+#wizardPopup .end-date-filter {
+  margin-left: 10px;
+}
+#wizardPopup .resetBtn {
+  margin-left:auto;
+}
+#wizardPopup .operations-dropdown {
+  max-height: 300px;
+}
+#audit_operatoin_filter_options {
+  display: none;
+}
+#wizardPopup .n-checkbox-container {
+  display: flex;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+#wizardPopup .button-wrapper {
+  padding: 10px 10px;
+  background-color: #FFFFFF;
+  z-index: 1;
+}
+#wizardPopup .modal-header {
+  border-radius: 0;
+  border-bottom: 1px solid #f2f4f6;
+  height: 60px;
+  box-sizing: border-box;
+}
+#wizardPopup .n-modal-wrapper {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 60px;
+  bottom: 0;
+  min-width: 100%;
+}
+#wizardPopup .n-modal-wrapper .n-modal-body {
+  max-height: none;
+}
+#wizardPopup .n-modal-wrapper .n-modal-body > .n-modal-content-wrapper .n-modal-content {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px 0;
+  overflow: visible;
+}
+#wizardPopup .start-date-filter,
+#wizardPopup .end-date-filter {
+  display: inline-flex;
+}
+#wizardPopup .n-label-text {
+  margin-right: 10px;
+  width: auto;
+  margin-top: 5px;
+}
+#wizardPopup .date-range-filter {
+  margin-bottom: 0 !important;
+  width: auto;
+  position: relative;
+}
+#wizardPopup .graphWrapper {
+  margin-top: 20px;
+}
+.datepicker.dropdown-menu {
+  margin: 0 !important;
+}
+#wizardPopup ul#audit_operatoin_filter_options.dropdown-menu {
+  font-size: 12px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 300px;
+  min-width: 170px;
+  width: max-content;
+  width: -moz-max-content;
+}

@@ -1,0 +1,12 @@
+.n-not-found {
+  margin-top: 0;
+  padding: 7% 0;
+  text-align: center;
+  height: 100%;
+}
+.n-not-found .main {
+	width: 100%;
+}
+.n-not-found .sub {
+	width: 100%;
+}

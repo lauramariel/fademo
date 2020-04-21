@@ -1,0 +1,54 @@
+<div class="ldapContainer">
+  <% if (showTitle) { %>
+  <section data-ntnx-section="type-separator">
+    <h5 data-ntnx-title>NFS Authentication</h5>
+    <p data-ntnx-section="type-text">
+      Enter the LDAP server details
+    </p>
+  </section>
+  <% } %>
+  <section data-ntnx-section>
+    <label data-ntnx-label for="ldapUri">
+      LDAP Server URI
+    </label>
+    <input type="text" id="ldapUri" name="server_url" value="<%= serverUrl %>"
+           data-error-label="LDAP Server URI"
+           class="ldapFields"
+           placeholder="eg. ldaps://ldap-servername.company.com:port">
+  </section>
+	<section data-ntnx-section>
+    <label data-ntnx-label for="baseDN">
+      Base DN
+    </label>
+    <input type="text" id="baseDN" name="base_dn" value="<%= baseDn %>"
+           data-error-label="Base DN"
+           class="ldapFields"
+           placeholder="eg. dc=nut,dc=com">
+  </section>
+    <div class="ldapInputsContainer n-clearfix">
+    <div>
+      <!-- Bind DN -->
+      <section data-ntnx-section="type-half">
+        <label data-ntnx-label for="bindDN">
+          bind DN (Optional)
+        </label>
+        <input type="text" id="bindDN" class="bindDN ldapFields" name="bind_dn"
+               value="<%= bindDn %>" data-error-label="Bind DN"
+               placeholder="eg. cn=Admin,dc=dev,dc=eng,dc=nut,dc=com">
+      </section>
+      <!-- Bind password -->
+      <section data-ntnx-section="type-half">
+        <label data-ntnx-label for="bindPassword">
+          bind password
+        </label>
+        <input type="password" id="bindPassword" class="bindPassword"
+               data-error-label="Bind Password"
+               name="bind_password" <%= bindDn ? '' : 'disabled' %>>
+        <div data-ntnx-hint="" class="hide"
+             id="hintLdapPassword">
+          <%= msg %>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

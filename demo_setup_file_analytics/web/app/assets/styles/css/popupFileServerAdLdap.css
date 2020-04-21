@@ -1,0 +1,17 @@
+#wizardPopup.adldap-wizard [data-ntnx-label] > .nutanixMoreInfo > .more-info svg {
+  width: 10px;
+  height: 10px;
+}
+#wizardPopup.adldap-wizard [data-ntnx-label] > .nutanixMoreInfo > .more-info {
+  padding: 0 2px 0 3px;
+}
+#wizardPopup.adldap-wizard .n-modal-wrapper {
+  top: 0px;
+  position: relative;
+}
+#wizardPopup.adldap-wizard .wizard-page-container .wizard-page {
+  margin-bottom: 25px;
+}
+#wizardPopup #summary tr > td:first-child {
+  width: 50%;
+}

@@ -1,0 +1,360 @@
+{
+  "entities": [
+    {
+      "metric": "video",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1528622011132,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1530428400000,
+          "size": 8947848533.333332
+        },
+        {
+          "count": 0,
+          "epoch_time": 1533106800000,
+          "size": 0
+        },
+        {
+          "count": 6,
+          "epoch_time": 1535785200000,
+          "size": 53687091200
+        },
+        {
+          "count": 0,
+          "epoch_time": 1538377200000,
+          "size": 8947848533.333332
+        },
+        {
+          "count": 0,
+          "epoch_time": 1541055600000,
+          "size": 8947848533.333332
+        },
+        {
+          "count": 0,
+          "epoch_time": 1543647600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1546326000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1549004400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1551423600000,
+          "size": 53687091200
+        },
+        {
+          "count": 10,
+          "epoch_time": 1554102000000,
+          "size": 76951178
+        },
+        {
+          "count": 7,
+          "epoch_time": 1556694000000,
+          "size": 54850929
+        },
+        {
+          "count": 14,
+          "epoch_time": 1559372400000,
+          "size": 8947848533.333332
+        }
+      ]
+    },
+    {
+      "metric": "cd_dvd_images",
+      "values": [
+        {
+          "count": 5035,
+          "epoch_time": 1528622011132,
+          "size": 53687091200
+        },
+        {
+          "count": 42,
+          "epoch_time": 1530428400000,
+          "size": 53687
+        },
+        {
+          "count": 3,
+          "epoch_time": 1533106800000,
+          "size": 53687091200
+        },
+        {
+          "count": 15,
+          "epoch_time": 1535785200000,
+          "size": 55122
+        },
+        {
+          "count": 0,
+          "epoch_time": 1538377200000,
+          "size": 53687091200
+        },
+        {
+          "count": 0,
+          "epoch_time": 1541055600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1543647600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1546326000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1549004400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1551423600000,
+          "size": 0
+        },
+        {
+          "count": 20645,
+          "epoch_time": 1554102000000,
+          "size": 99871892
+        },
+        {
+          "count": 7,
+          "epoch_time": 1556694000000,
+          "size": 894848533.332
+        },
+        {
+          "count": 4,
+          "epoch_time": 1559372400000,
+          "size": 6620
+        }
+      ]
+    },
+    {
+      "metric": "images",
+      "values": [
+        {
+          "count": 225,
+          "epoch_time": 1528622011132,
+          "size": 94659
+        },
+        {
+          "count": 0,
+          "epoch_time": 1530428400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1533106800000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1535785200000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1538377200000,
+          "size": 53687091200
+        },
+        {
+          "count": 0,
+          "epoch_time": 1541055600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1543647600000,
+          "size": 8947848533.333332
+        },
+        {
+          "count": 0,
+          "epoch_time": 1546326000000,
+          "size": 53687091200
+        },
+        {
+          "count": 0,
+          "epoch_time": 1549004400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1551423600000,
+          "size": 0
+        },
+        {
+          "count": 2,
+          "epoch_time": 1554102000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1556694000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559372400000,
+          "size": 8947848533.32
+        }
+      ]
+    },
+    {
+      "metric": "disk_image",
+      "values": [
+        {
+          "count": 3,
+          "epoch_time": 1528622011132,
+          "size": 66435
+        },
+        {
+          "count": 0,
+          "epoch_time": 1530428400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1533106800000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1535785200000,
+          "size": 123411
+        },
+        {
+          "count": 0,
+          "epoch_time": 1538377200000,
+          "size": 0
+        },
+        {
+          "count": 3,
+          "epoch_time": 1541055600000,
+          "size": 297153
+        },
+        {
+          "count": 3,
+          "epoch_time": 1543647600000,
+          "size": 176466
+        },
+        {
+          "count": 0,
+          "epoch_time": 1546326000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1549004400000,
+          "size": 53687091200
+        },
+        {
+          "count": 0,
+          "epoch_time": 1551423600000,
+          "size": 0
+        },
+        {
+          "count": 14,
+          "epoch_time": 1554102000000,
+          "size": 1632345
+        },
+        {
+          "count": 5,
+          "epoch_time": 1556694000000,
+          "size": 183861
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559372400000,
+          "size": 0
+        }
+      ]
+    },
+    {
+      "metric": "other_file_types",
+      "values": [
+        {
+          "count": 2052,
+          "epoch_time": 1528622011132,
+          "size": 20629743
+        },
+        {
+          "count": 2679,
+          "epoch_time": 1530428400000,
+          "size": 15714864
+        },
+        {
+          "count": 104,
+          "epoch_time": 1533106800000,
+          "size": 517075
+        },
+        {
+          "count": 231,
+          "epoch_time": 1535785200000,
+          "size": 1271817
+        },
+        {
+          "count": 0,
+          "epoch_time": 1538377200000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1541055600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1543647600000,
+          "size": 81947848533.333332
+        },
+        {
+          "count": 0,
+          "epoch_time": 1546326000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1549004400000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1551423600000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1554102000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1556694000000,
+          "size": 0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559372400000,
+          "size": 8848533.333332
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "count": 5,
+    "page": 0,
+    "total": 5,
+    "type": "categories"
+  }
+}

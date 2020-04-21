@@ -1,0 +1,10 @@
+#popupFileServerEnable {
+	width: 500px;
+}
+#popupFileServerEnable [data-ntnx-label] > .nutanixMoreInfo > .more-info {
+  padding: 0 2px 0 3px;
+}
+#popupFileServerEnable [data-ntnx-label] > .nutanixMoreInfo > .more-info svg {
+  width: 10px;
+  height: 10px;
+}

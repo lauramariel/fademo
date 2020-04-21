@@ -1,0 +1,26 @@
+<div class="n-radio-container">
+  <input type="radio"
+      id="<%= id %>"
+      class="n-radio -<%= type %> <%= jsClasses %>"
+    <% if(stringParams){ %>
+      <%= stringParams %>
+    <% } else { %>
+      name="<%= name %>"
+      value="<%= value %>"
+      <%= checked ? "checked" : "" %>
+      <%= disabled ? "disabled" : "" %>
+      <%= attributes %>
+    <% } %>
+  />
+  <label
+    for="<%= id %>"
+    class="<%= typeClasses %> <%= classes %> <%= variants %>">
+    <%= iconTmpl %>
+  </label>
+
+  <% if (labelText) { %>
+    <label for="<%= id %>" data-ntnx-inline-label>
+      <%= labelText %>
+    </label>
+  <% } %>
+</div>

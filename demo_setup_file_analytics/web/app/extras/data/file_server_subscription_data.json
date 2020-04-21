@@ -1,0 +1,15 @@
+{  
+   "ad_domain":"child2.afs.minerva.com",
+   "admin_users":[  
+      "child2\\administrator"
+   ],
+   "dns_domain_name":"child2.afs.minerva.com",
+   "fileserver_name":"smb-fs",
+   "fileserver_uuid":"7290b9eb-9235-4331-9730-74c6151d9bb3",
+   "ldap_details":{  
+
+   },
+   "nfs_auth_type":"",
+   "protocol_type":"SMB",
+   "rfc2307_enabled":false
+}

@@ -1,0 +1,67 @@
+.dataTable .n-operation-icon {
+  margin-right: 10px;
+  display: inline-block;
+  border-radius: 18px;
+  height: 6px;
+  width: 6px;
+  margin-bottom: 2px;
+}
+.dataTable td,
+.dataTable th {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.permissionTable .searchWrapper {
+  padding-top: 20px;
+  margin-bottom: 20px
+}
+.right-header-wrapper {
+  position: absolute;
+  right: 20px;
+}
+.right-header-wrapper .n-button-settings {
+  font-size: 8px;
+}
+.dataTables_length label {
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.dataTables_length .fancy-select {
+  border-radius: 4px;
+  width: auto;
+  border: 1px solid rgba( 0,0,0,0.2 );
+  margin: 0 4px;
+}
+.n-settings-container .dropdown .dropdown-menu li {
+  font-size: 12px;
+}
+.n-settings-container .dropdown .dropdown-menu li a:hover {
+  background: #26bbf0;
+  border-color: #1790bb;
+  color: #ffffff;
+}
+.n-settings-container .dropdown .dropdown-menu {
+  margin-right: 15px;
+}
+.n-table-no-data {
+  margin-bottom: 0;
+}
+.n-base-data-table {
+  position: relative;
+}
+.n-base-data-table .n-error {
+  padding-top: 5px !important;
+}
+.n-base-data-table .n-header .n-header-right > li.n-page-nav-container
+.n-button-previous,
+.n-base-data-table .n-header .n-header-right > li.n-page-nav-container
+.n-button-next {
+  border: 1px solid #ffffff;
+}
+.n-base-data-table .noData {
+  top: 200px;
+}
+.n-base-data-table .n-header {
+  min-height: 47px;
+}

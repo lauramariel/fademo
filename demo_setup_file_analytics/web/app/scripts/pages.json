@@ -1,0 +1,7 @@
+{
+  "moduleName": "pages",
+  "modules": {
+    "DashboardView": "app/scripts/views/dashboard/DashboardView.js",
+    "FileServerEnablePageView": "app/scripts/views/fileserver/FileServerEnablePageView.js"
+  }
+}

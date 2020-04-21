@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_13_13222600",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:31Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "29",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_263_3084400",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:35Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "HealthPage",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_265_3121900",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:35Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "Location_JSON",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_128_6900",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:35Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "a",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_147_3270400",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:34Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "full_scan",
+      "owner": "administrator",
+      "parent": "zzz",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_184_13116900",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:31Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "latest",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    },
+    {
+      "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05_129_6900",
+      "is_active": false,
+      "last_event": {
+        "modified_date": "2020-01-29T17:18:34Z",
+        "operation": "DirectoryDelete",
+        "username": "child4\\administrator"
+      },
+      "name": "zzz",
+      "owner": "administrator",
+      "parent": "/",
+      "share": "fs-smb-td"
+    }
+  ],
+  "metadata": {
+    "count": 7,
+    "page": 0,
+    "total": 7
+  }
+}

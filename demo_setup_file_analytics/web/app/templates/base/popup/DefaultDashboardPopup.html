@@ -1,0 +1,38 @@
+<!-- Default Structure for Popups -->
+<header class="modal-header">
+  <% if (closeButton) { %>
+    <button type="button" class="close" data-dismiss="modal">
+      <i data-icon="K" aria-hidden="true"></i>
+    </button>
+  <% } %>
+  <h4 class="n-title"><%= title %></h4>
+</header>
+
+<div class="n-modal-wrapper">
+  <div class="n-modal-body">
+    <div class="n-modal-content-wrapper">
+      <div class="n-modal-content">
+        <div class="antiscroll-wrap">
+          <div class="box-wrap">
+            <div class="antiscroll-inner">
+              <div class="box-inner">
+                <div class="n-modal-alert-header">
+                </div>
+
+                <%= bodyContent %>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <% if (footer) { %>
+    <footer class="n-modal-footer">
+      <%= footerButtons %>
+    </footer>
+  <% } %>
+
+</div>

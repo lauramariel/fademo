@@ -1,0 +1,43 @@
+{  
+   "entities":[  
+      {  
+         "authentication_type":null,
+         "collected_objects_count":171274,
+         "creation_date":"2019-06-01T11:48:19Z",
+         "error_details":null,
+         "failed_objects_count":0,
+         "is_active":true,
+         "is_nested_share":false,
+         "is_accessible": true,
+         "is_encrypted": false,
+         "previous_scan_details":{
+            "collected_objects_count":171274,
+            "error_details":null,
+            "failed_objects_count":0,
+            "scan_end_date":"2019-06-07T09:42:48Z",
+            "scan_process_id":149843,
+            "scan_start_date":"2019-06-07T09:35:57Z",
+            "scan_status":"completed"
+         },
+         "scan_end_date":"2019-06-07T11:42:00Z",
+         "scan_start_date":"2019-06-07T11:35:07Z",
+         "scan_status":"completed",
+         "share_UUID":"9b24c514-5afe-402d-b90a-e9f63c573ef7",
+         "share_name":"smb_share1",
+         "share_protocol":[  
+            "SMB"
+         ],
+         "updation_date":"2019-06-07T11:42:00Z"
+      }
+   ],
+   "metadata":{  
+      "count":1,
+      "page":0,
+      "scan_completed":1,
+      "scan_failed":0,
+      "scan_inprogress":0,
+      "scan_not_started":0,
+      "shares_to_scan":1,
+      "total":1
+   }
+}

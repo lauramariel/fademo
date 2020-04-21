@@ -1,0 +1,33 @@
+<form id="dataRetentionPopupForm">
+  <%
+    var durationUnit = "month(s)";
+    if (selectedValueInMonths > 11) {
+      selectedValueInMonths = (selectedValueInMonths / 12);
+      durationUnit = "year(s)";
+    }
+  %>
+  <section data-ntnx-section="type-text">
+    Data retention period refers to the period for which event data is available.
+    Currently <b>last <%= selectedValueInMonths %> <%= durationUnit %> data</b> is available for
+    file server  "<b><%= fsName %></b>"
+  </section>
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      Data Retention
+    </label>
+    <select class="retentionPeriod fancy-select">
+    <%
+    _.each(duration, function(value, key) {
+      if (durationValues[key] == selectedValue) {
+        isSelected = "selected";
+      } else {
+        isSelected = "";
+      }
+    %>
+      <option value="<%=durationValues[key]%>" <%= isSelected %>><%= value %></option>
+    <%
+      });
+    %>
+    </select>
+  </section>
+</form>

@@ -1,0 +1,4648 @@
+{
+  "entities": [
+    {
+      "added": 0,
+      "by_type": [],
+      "from": 1529564400000,
+      "key": 1529564400000,
+      "removed": 0,
+      "to": 1530428399999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1530428400000,
+      "key": 1530428400000,
+      "removed": 0,
+      "to": 1533106799999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1533106800000,
+      "key": 1533106800000,
+      "removed": 0,
+      "to": 1535785199999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1535785200000,
+      "key": 1535785200000,
+      "removed": 0,
+      "to": 1538377199999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1538377200000,
+      "key": 1538377200000,
+      "removed": 0,
+      "to": 1541055599999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1541055600000,
+      "key": 1541055600000,
+      "removed": 0,
+      "to": 1543647599999
+    },
+    {
+      "added": 53771200976.21334,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1543647600000,
+      "key": 1543647600000,
+      "removed": 0,
+      "to": 1546325999999
+    },
+    {
+      "added": 64596308131.84,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1546326000000,
+      "key": 1546326000000,
+      "removed": 0,
+      "to": 1549004399999
+    },
+    {
+      "added": 64596308131.84,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1549004400000,
+      "key": 1549004400000,
+      "removed": 0,
+      "to": 1551423599999
+    },
+    {
+      "added": 64596308131.84,
+      "by_type": [
+        {
+          "added": 975141370,
+          "file_type": "accdb",
+          "removed": 0
+        },
+        {
+          "added": 1512557580,
+          "file_type": "accde",
+          "removed": 0
+        },
+        {
+          "added": 828561475,
+          "file_type": "accdr",
+          "removed": 0
+        },
+        {
+          "added": 649659930,
+          "file_type": "accdt",
+          "removed": 0
+        },
+        {
+          "added": 2415682985,
+          "file_type": "aiff",
+          "removed": 0
+        },
+        {
+          "added": 671051700,
+          "file_type": "au",
+          "removed": 0
+        },
+        {
+          "added": 1573863185,
+          "file_type": "avi",
+          "removed": 0
+        },
+        {
+          "added": 2081376165,
+          "file_type": "bak",
+          "removed": 0
+        },
+        {
+          "added": 127058580,
+          "file_type": "bat",
+          "removed": 0
+        },
+        {
+          "added": 2011909750,
+          "file_type": "bin",
+          "removed": 0
+        },
+        {
+          "added": 3651790545,
+          "file_type": "bkf",
+          "removed": 0
+        },
+        {
+          "added": 3726519860,
+          "file_type": "bkp",
+          "removed": 0
+        },
+        {
+          "added": 1882875330,
+          "file_type": "bmp",
+          "removed": 0
+        },
+        {
+          "added": 1945993070,
+          "file_type": "cab",
+          "removed": 0
+        },
+        {
+          "added": 3151429855,
+          "file_type": "csv",
+          "removed": 0
+        },
+        {
+          "added": 4468116250,
+          "file_type": "dll",
+          "removed": 0
+        },
+        {
+          "added": 271985405,
+          "file_type": "doc",
+          "removed": 0
+        },
+        {
+          "added": 1235386980,
+          "file_type": "docx",
+          "removed": 0
+        },
+        {
+          "added": 27139770,
+          "file_type": "dot",
+          "removed": 0
+        },
+        {
+          "added": 1551836770,
+          "file_type": "dotm",
+          "removed": 0
+        },
+        {
+          "added": 755760530,
+          "file_type": "dotx",
+          "removed": 0
+        },
+        {
+          "added": 4011699610,
+          "file_type": "exe",
+          "removed": 0
+        },
+        {
+          "added": 2368738540,
+          "file_type": "gif",
+          "removed": 0
+        },
+        {
+          "added": 2685852760,
+          "file_type": "gz",
+          "removed": 0
+        },
+        {
+          "added": 932560235,
+          "file_type": "hlog",
+          "removed": 0
+        },
+        {
+          "added": 251604670,
+          "file_type": "html",
+          "removed": 0
+        },
+        {
+          "added": 2739002875,
+          "file_type": "img",
+          "removed": 0
+        },
+        {
+          "added": 27090,
+          "file_type": "ini",
+          "removed": 0
+        },
+        {
+          "added": 4900483920,
+          "file_type": "iso",
+          "removed": 0
+        },
+        {
+          "added": 842347660,
+          "file_type": "jpeg",
+          "removed": 0
+        },
+        {
+          "added": 482645475,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 614162235,
+          "file_type": "lib",
+          "removed": 0
+        },
+        {
+          "added": 11554939640,
+          "file_type": "log",
+          "removed": 0
+        },
+        {
+          "added": 2278507270,
+          "file_type": "m4v",
+          "removed": 0
+        },
+        {
+          "added": 90407305,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 1708990130,
+          "file_type": "mov",
+          "removed": 0
+        },
+        {
+          "added": 998588470,
+          "file_type": "mp3",
+          "removed": 0
+        },
+        {
+          "added": 1639028305,
+          "file_type": "mp4",
+          "removed": 0
+        },
+        {
+          "added": 1115703385,
+          "file_type": "mpeg",
+          "removed": 0
+        },
+        {
+          "added": 3029742605,
+          "file_type": "mpg",
+          "removed": 0
+        },
+        {
+          "added": 4194431900,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 1788906260,
+          "file_type": "nrg",
+          "removed": 0
+        },
+        {
+          "added": 846148625,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 8610100480,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 568629920,
+          "file_type": "png",
+          "removed": 0
+        },
+        {
+          "added": 544108895,
+          "file_type": "potm",
+          "removed": 0
+        },
+        {
+          "added": 314400120,
+          "file_type": "potx",
+          "removed": 0
+        },
+        {
+          "added": 607422505,
+          "file_type": "ppam",
+          "removed": 0
+        },
+        {
+          "added": 114570465,
+          "file_type": "ppsm",
+          "removed": 0
+        },
+        {
+          "added": 32302560,
+          "file_type": "ppsx",
+          "removed": 0
+        },
+        {
+          "added": 428289020,
+          "file_type": "ppt",
+          "removed": 0
+        },
+        {
+          "added": 1684495620,
+          "file_type": "pptm",
+          "removed": 0
+        },
+        {
+          "added": 1401646860,
+          "file_type": "pptx",
+          "removed": 0
+        },
+        {
+          "added": 429617815,
+          "file_type": "psd",
+          "removed": 0
+        },
+        {
+          "added": 42140,
+          "file_type": "psm1",
+          "removed": 0
+        },
+        {
+          "added": 266721310,
+          "file_type": "py",
+          "removed": 0
+        },
+        {
+          "added": 2576091440,
+          "file_type": "rar",
+          "removed": 0
+        },
+        {
+          "added": 3969676235,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 497715145,
+          "file_type": "rtf",
+          "removed": 0
+        },
+        {
+          "added": 305797475,
+          "file_type": "sh",
+          "removed": 0
+        },
+        {
+          "added": 2905301255,
+          "file_type": "tar",
+          "removed": 0
+        },
+        {
+          "added": 1256744000,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 462407845,
+          "file_type": "tiff",
+          "removed": 0
+        },
+        {
+          "added": 3701737325,
+          "file_type": "txt",
+          "removed": 0
+        },
+        {
+          "added": 913860470,
+          "file_type": "vmdk",
+          "removed": 0
+        },
+        {
+          "added": 986392145,
+          "file_type": "vmem",
+          "removed": 0
+        },
+        {
+          "added": 183433780,
+          "file_type": "vmsd",
+          "removed": 0
+        },
+        {
+          "added": 428803555,
+          "file_type": "vmsn",
+          "removed": 0
+        },
+        {
+          "added": 1019878165,
+          "file_type": "vmtm",
+          "removed": 0
+        },
+        {
+          "added": 363296320,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 765519460,
+          "file_type": "vmxf",
+          "removed": 0
+        },
+        {
+          "added": 1845699695,
+          "file_type": "wav",
+          "removed": 0
+        },
+        {
+          "added": 2059496255,
+          "file_type": "wma",
+          "removed": 0
+        },
+        {
+          "added": 722876600,
+          "file_type": "xlam",
+          "removed": 0
+        },
+        {
+          "added": 239725820,
+          "file_type": "xls",
+          "removed": 0
+        },
+        {
+          "added": 659485860,
+          "file_type": "xlsb",
+          "removed": 0
+        },
+        {
+          "added": 1281578075,
+          "file_type": "xlsm",
+          "removed": 0
+        },
+        {
+          "added": 799253605,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 270551945,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 186581990,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 217958685,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 39130,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 1658164005,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 2721315145,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1551423600000,
+      "key": 1551423600000,
+      "removed": 0,
+      "to": 1554101999999
+    },
+    {
+      "added": 0,
+      "by_type": [],
+      "from": 1554102000000,
+      "key": 1554102000000,
+      "removed": 0,
+      "to": 1556693999999
+    },
+    {
+      "added": 2359535470,
+      "by_type": [
+        {
+          "added": 121531468,
+          "file_type": "aiff",
+          "removed": 121531468
+        },
+        {
+          "added": 623922,
+          "file_type": "au",
+          "removed": 623922
+        },
+        {
+          "added": 75152973,
+          "file_type": "avi",
+          "removed": 75152973
+        },
+        {
+          "added": 9349623,
+          "file_type": "bak",
+          "removed": 9349623
+        },
+        {
+          "added": 5418,
+          "file_type": "bat",
+          "removed": 5418
+        },
+        {
+          "added": 56564447,
+          "file_type": "bin",
+          "removed": 56564447
+        },
+        {
+          "added": 192261,
+          "file_type": "bkf",
+          "removed": 192261
+        },
+        {
+          "added": 89060235,
+          "file_type": "bkp",
+          "removed": 89060235
+        },
+        {
+          "added": 23393896,
+          "file_type": "bmp",
+          "removed": 23393896
+        },
+        {
+          "added": 576637,
+          "file_type": "cab",
+          "removed": 576637
+        },
+        {
+          "added": 93093137,
+          "file_type": "csv",
+          "removed": 93093137
+        },
+        {
+          "added": 57257873,
+          "file_type": "dll",
+          "removed": 57257873
+        },
+        {
+          "added": 4214,
+          "file_type": "docx",
+          "removed": 4214
+        },
+        {
+          "added": 228154842,
+          "file_type": "exe",
+          "removed": 228154842
+        },
+        {
+          "added": 104027293,
+          "file_type": "gif",
+          "removed": 104027293
+        },
+        {
+          "added": 3570291,
+          "file_type": "gz",
+          "removed": 3570291
+        },
+        {
+          "added": 69097686,
+          "file_type": "hlog",
+          "removed": 69097686
+        },
+        {
+          "added": 3612,
+          "file_type": "html",
+          "removed": 3612
+        },
+        {
+          "added": 5418,
+          "file_type": "img",
+          "removed": 5418
+        },
+        {
+          "added": 2408,
+          "file_type": "ini",
+          "removed": 2408
+        },
+        {
+          "added": 106335859,
+          "file_type": "iso",
+          "removed": 106335859
+        },
+        {
+          "added": 487600,
+          "file_type": "jpeg",
+          "removed": 487600
+        },
+        {
+          "added": 3612,
+          "file_type": "jpg",
+          "removed": 3612
+        },
+        {
+          "added": 6020,
+          "file_type": "lib",
+          "removed": 6020
+        },
+        {
+          "added": 366898538,
+          "file_type": "log",
+          "removed": 366898538
+        },
+        {
+          "added": 97782692,
+          "file_type": "m4v",
+          "removed": 97782692
+        },
+        {
+          "added": 8479669,
+          "file_type": "mdb",
+          "removed": 8479669
+        },
+        {
+          "added": 26146510,
+          "file_type": "mov",
+          "removed": 26146510
+        },
+        {
+          "added": 9204669,
+          "file_type": "mp3",
+          "removed": 9204669
+        },
+        {
+          "added": 16213831,
+          "file_type": "mp4",
+          "removed": 16213831
+        },
+        {
+          "added": 537027,
+          "file_type": "mpeg",
+          "removed": 537027
+        },
+        {
+          "added": 10605453,
+          "file_type": "msi",
+          "removed": 10605453
+        },
+        {
+          "added": 3575662,
+          "file_type": "nrg",
+          "removed": 3575662
+        },
+        {
+          "added": 3165071,
+          "file_type": "nvram",
+          "removed": 3165071
+        },
+        {
+          "added": 67738236,
+          "file_type": "pdf",
+          "removed": 67738236
+        },
+        {
+          "added": 7950045,
+          "file_type": "png",
+          "removed": 7950045
+        },
+        {
+          "added": 38466262,
+          "file_type": "potx",
+          "removed": 38466262
+        },
+        {
+          "added": 3223715,
+          "file_type": "ppam",
+          "removed": 3223715
+        },
+        {
+          "added": 5809232,
+          "file_type": "ppsx",
+          "removed": 5809232
+        },
+        {
+          "added": 11780022,
+          "file_type": "ppt",
+          "removed": 11780022
+        },
+        {
+          "added": 98668854,
+          "file_type": "pptx",
+          "removed": 98668854
+        },
+        {
+          "added": 1806,
+          "file_type": "psm1",
+          "removed": 1806
+        },
+        {
+          "added": 4816,
+          "file_type": "py",
+          "removed": 4816
+        },
+        {
+          "added": 9496670,
+          "file_type": "rar",
+          "removed": 9496670
+        },
+        {
+          "added": 75647846,
+          "file_type": "rpm",
+          "removed": 75647846
+        },
+        {
+          "added": 4214,
+          "file_type": "rtf",
+          "removed": 4214
+        },
+        {
+          "added": 4214,
+          "file_type": "sh",
+          "removed": 4214
+        },
+        {
+          "added": 87340909,
+          "file_type": "tar",
+          "removed": 87340909
+        },
+        {
+          "added": 9132903,
+          "file_type": "tiff",
+          "removed": 9132903
+        },
+        {
+          "added": 6186190,
+          "file_type": "txt",
+          "removed": 6186190
+        },
+        {
+          "added": 207063,
+          "file_type": "vmem",
+          "removed": 207063
+        },
+        {
+          "added": 179230,
+          "file_type": "vmsd",
+          "removed": 179230
+        },
+        {
+          "added": 5518528,
+          "file_type": "vmsn",
+          "removed": 5518528
+        },
+        {
+          "added": 5137924,
+          "file_type": "vmxf",
+          "removed": 5137924
+        },
+        {
+          "added": 91412070,
+          "file_type": "wav",
+          "removed": 91412070
+        },
+        {
+          "added": 40706122,
+          "file_type": "xlam",
+          "removed": 40706122
+        },
+        {
+          "added": 76743368,
+          "file_type": "xlsb",
+          "removed": 76743368
+        },
+        {
+          "added": 93090033,
+          "file_type": "xlsm",
+          "removed": 93090033
+        },
+        {
+          "added": 3010,
+          "file_type": "xlsx",
+          "removed": 3010
+        },
+        {
+          "added": 37641,
+          "file_type": "xltm",
+          "removed": 37641
+        },
+        {
+          "added": 32816368,
+          "file_type": "xltx",
+          "removed": 32816368
+        },
+        {
+          "added": 2408,
+          "file_type": "xml",
+          "removed": 2408
+        },
+        {
+          "added": 10302418,
+          "file_type": "z",
+          "removed": 10302418
+        },
+        {
+          "added": 813486,
+          "file_type": "zip",
+          "removed": 813486
+        }
+      ],
+      "from": 1556694000000,
+      "key": 1556694000000,
+      "removed": 2359535470,
+      "to": 1559372399999
+    },
+    {
+      "added": 26518389037,
+      "by_type": [
+        {
+          "added": 195028274,
+          "file_type": "accdb",
+          "removed": 88737729
+        },
+        {
+          "added": 302511516,
+          "file_type": "accde",
+          "removed": 72868603
+        },
+        {
+          "added": 165712295,
+          "file_type": "accdr",
+          "removed": 98088281
+        },
+        {
+          "added": 129931986,
+          "file_type": "accdt",
+          "removed": 51576039
+        },
+        {
+          "added": 483136597,
+          "file_type": "aiff",
+          "removed": 119199058
+        },
+        {
+          "added": 134210340,
+          "file_type": "au",
+          "removed": 10328422
+        },
+        {
+          "added": 314772637,
+          "file_type": "avi",
+          "removed": 602
+        },
+        {
+          "added": 416275233,
+          "file_type": "bak",
+          "removed": 21864541
+        },
+        {
+          "added": 25411716,
+          "file_type": "bat",
+          "removed": 25402084
+        },
+        {
+          "added": 402381950,
+          "file_type": "bin",
+          "removed": 242551392
+        },
+        {
+          "added": 730358109,
+          "file_type": "bkf",
+          "removed": 1806
+        },
+        {
+          "added": 745303972,
+          "file_type": "bkp",
+          "removed": 68313271
+        },
+        {
+          "added": 376575066,
+          "file_type": "bmp",
+          "removed": 145914415
+        },
+        {
+          "added": 389198614,
+          "file_type": "cab",
+          "removed": 97286440
+        },
+        {
+          "added": 630285971,
+          "file_type": "csv",
+          "removed": 1204
+        },
+        {
+          "added": 893623250,
+          "file_type": "dll",
+          "removed": 91244302
+        },
+        {
+          "added": 54397081,
+          "file_type": "doc",
+          "removed": 8042515
+        },
+        {
+          "added": 247077396,
+          "file_type": "docx",
+          "removed": 237255807
+        },
+        {
+          "added": 5427954,
+          "file_type": "dot",
+          "removed": 1204
+        },
+        {
+          "added": 310367354,
+          "file_type": "dotm",
+          "removed": 190812228
+        },
+        {
+          "added": 151152106,
+          "file_type": "dotx",
+          "removed": 71372985
+        },
+        {
+          "added": 802339922,
+          "file_type": "exe",
+          "removed": 1806
+        },
+        {
+          "added": 473747708,
+          "file_type": "gif",
+          "removed": 190427167
+        },
+        {
+          "added": 537170552,
+          "file_type": "gz",
+          "removed": 1204
+        },
+        {
+          "added": 186512047,
+          "file_type": "hlog",
+          "removed": 18326467
+        },
+        {
+          "added": 50320934,
+          "file_type": "html",
+          "removed": 50311302
+        },
+        {
+          "added": 547800575,
+          "file_type": "img",
+          "removed": 51394466
+        },
+        {
+          "added": 5418,
+          "file_type": "ini",
+          "removed": 1806
+        },
+        {
+          "added": 980096784,
+          "file_type": "iso",
+          "removed": 375781986
+        },
+        {
+          "added": 168469532,
+          "file_type": "jpeg",
+          "removed": 531452
+        },
+        {
+          "added": 96529095,
+          "file_type": "jpg",
+          "removed": 0
+        },
+        {
+          "added": 122832447,
+          "file_type": "lib",
+          "removed": 122822213
+        },
+        {
+          "added": 2310987928,
+          "file_type": "log",
+          "removed": 2730894
+        },
+        {
+          "added": 455701454,
+          "file_type": "m4v",
+          "removed": 602
+        },
+        {
+          "added": 18081461,
+          "file_type": "mdb",
+          "removed": 0
+        },
+        {
+          "added": 341798026,
+          "file_type": "mov",
+          "removed": 8260397
+        },
+        {
+          "added": 199717694,
+          "file_type": "mp3",
+          "removed": 103361221
+        },
+        {
+          "added": 327805661,
+          "file_type": "mp4",
+          "removed": 97186306
+        },
+        {
+          "added": 223140677,
+          "file_type": "mpeg",
+          "removed": 127169
+        },
+        {
+          "added": 605948521,
+          "file_type": "mpg",
+          "removed": 485710956
+        },
+        {
+          "added": 838886380,
+          "file_type": "msi",
+          "removed": 0
+        },
+        {
+          "added": 357781252,
+          "file_type": "nrg",
+          "removed": 9962890
+        },
+        {
+          "added": 169229725,
+          "file_type": "nvram",
+          "removed": 0
+        },
+        {
+          "added": 1722020096,
+          "file_type": "pdf",
+          "removed": 0
+        },
+        {
+          "added": 113725984,
+          "file_type": "png",
+          "removed": 373209
+        },
+        {
+          "added": 108821779,
+          "file_type": "potm",
+          "removed": 648872
+        },
+        {
+          "added": 62880024,
+          "file_type": "potx",
+          "removed": 3010
+        },
+        {
+          "added": 121484501,
+          "file_type": "ppam",
+          "removed": 76919553
+        },
+        {
+          "added": 22914093,
+          "file_type": "ppsm",
+          "removed": 22540884
+        },
+        {
+          "added": 6460512,
+          "file_type": "ppsx",
+          "removed": 2408
+        },
+        {
+          "added": 85657804,
+          "file_type": "ppt",
+          "removed": 3612
+        },
+        {
+          "added": 336899124,
+          "file_type": "pptm",
+          "removed": 290196264
+        },
+        {
+          "added": 280329372,
+          "file_type": "pptx",
+          "removed": 96890647
+        },
+        {
+          "added": 85923563,
+          "file_type": "psd",
+          "removed": 1806
+        },
+        {
+          "added": 8428,
+          "file_type": "psm1",
+          "removed": 1204
+        },
+        {
+          "added": 53344262,
+          "file_type": "py",
+          "removed": 53334028
+        },
+        {
+          "added": 515218288,
+          "file_type": "rar",
+          "removed": 54305750
+        },
+        {
+          "added": 793935247,
+          "file_type": "rpm",
+          "removed": 0
+        },
+        {
+          "added": 99543029,
+          "file_type": "rtf",
+          "removed": 99535203
+        },
+        {
+          "added": 61159495,
+          "file_type": "sh",
+          "removed": 61151067
+        },
+        {
+          "added": 581060251,
+          "file_type": "tar",
+          "removed": 27148984
+        },
+        {
+          "added": 251348800,
+          "file_type": "tif",
+          "removed": 0
+        },
+        {
+          "added": 92481569,
+          "file_type": "tiff",
+          "removed": 1069389
+        },
+        {
+          "added": 740347465,
+          "file_type": "txt",
+          "removed": 77426723
+        },
+        {
+          "added": 182772094,
+          "file_type": "vmdk",
+          "removed": 7379768
+        },
+        {
+          "added": 197278429,
+          "file_type": "vmem",
+          "removed": 96520635
+        },
+        {
+          "added": 36686756,
+          "file_type": "vmsd",
+          "removed": 8265440
+        },
+        {
+          "added": 85760711,
+          "file_type": "vmsn",
+          "removed": 1380839
+        },
+        {
+          "added": 203975633,
+          "file_type": "vmtm",
+          "removed": 52426476
+        },
+        {
+          "added": 72659264,
+          "file_type": "vmx",
+          "removed": 0
+        },
+        {
+          "added": 153103892,
+          "file_type": "vmxf",
+          "removed": 66795119
+        },
+        {
+          "added": 369139939,
+          "file_type": "wav",
+          "removed": 904767
+        },
+        {
+          "added": 411899251,
+          "file_type": "wma",
+          "removed": 32097638
+        },
+        {
+          "added": 144575320,
+          "file_type": "xlam",
+          "removed": 3069413
+        },
+        {
+          "added": 47945164,
+          "file_type": "xls",
+          "removed": 1806
+        },
+        {
+          "added": 131897172,
+          "file_type": "xlsb",
+          "removed": 486302
+        },
+        {
+          "added": 256315615,
+          "file_type": "xlsm",
+          "removed": 43498839
+        },
+        {
+          "added": 159850721,
+          "file_type": "xlsx",
+          "removed": 0
+        },
+        {
+          "added": 54110389,
+          "file_type": "xlt",
+          "removed": 0
+        },
+        {
+          "added": 37316398,
+          "file_type": "xltm",
+          "removed": 0
+        },
+        {
+          "added": 43591737,
+          "file_type": "xltx",
+          "removed": 0
+        },
+        {
+          "added": 7826,
+          "file_type": "xml",
+          "removed": 0
+        },
+        {
+          "added": 331632801,
+          "file_type": "z",
+          "removed": 0
+        },
+        {
+          "added": 544263029,
+          "file_type": "zip",
+          "removed": 0
+        }
+      ],
+      "from": 1559372400000,
+      "key": 1559372400000,
+      "removed": 4332182887,
+      "to": 1561100399999
+    }
+  ],
+  "metadata": {
+    "count": 13,
+    "page": 0,
+    "reference_capacity": {
+      "capacity": 2047088787456,
+      "date": "2018-06-13"
+    },
+    "total": 13
+  }
+}

@@ -1,0 +1,12 @@
+<svg id="crystal" class="addon-crystal" xmlns="http://www.w3.org/2000/svg" width="126" height="132" viewBox="0 0 126 132">
+  <path id="s" class="cls-1" d="M56,128.011l-56-32V32L56,0l56,32V96.008Z"/>
+  <path id="c" class="cls-2 main-border" d="M63,130.865L8.006,99.435V36.574L63,5.143l54.994,31.431V99.435Z"/>
+  <path id="l" class="cls-3" d="M111,41.507l-48,27.5-48-27.5"/>
+  <path id="l-2" data-name="l" class="cls-3" d="M63,122V68"/>
+  <path id="f" class="cls-4" d="M63,122.437L15.5,95.22V40.787L63,13.57l47.5,27.217V95.22Z"/>
+  <rect id="c-2" data-name="c" class="cls-5 status-circle" x="102" y="28" width="24" height="24" rx="12" ry="12"/>
+  <path id="t" class="cls-6 check" d="M110.225,40.483l3.148,3.247,5.4-7.459"/>
+  <path id="l-3" data-name="l" class="cls-6 cross" d="M110,36l8,8"/>
+  <path id="l-4" data-name="l" class="cls-6 cross" d="M118,36l-8,8"/>
+  <path id="_" data-name="!" class="cls-9 exclamation" d="M115.587,34.505a1.51,1.51,0,0,0-1.573-1.5,1.542,1.542,0,0,0-1.639,1.5c0,0.41.24,3.692,0.349,5.966A1.2,1.2,0,0,0,113.97,41.6a1.217,1.217,0,0,0,1.29-1.126C115.369,38.2,115.587,34.915,115.587,34.505Zm0.175,10.855a1.737,1.737,0,0,0-1.77-1.659A1.653,1.653,0,1,0,115.762,45.36Z"/>
+</svg>

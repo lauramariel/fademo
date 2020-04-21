@@ -1,0 +1,1623 @@
+{
+  "entities": [
+    {
+      "execution_time": "2019-06-13T10:14:10.701575389Z",
+      "fslog_period_end": "2019-06-13T10:00:00Z",
+      "fslog_period_start": "2019-06-13T09:00:00Z",
+      "operation_count": 23236,
+      "operation_name": "PermissionDenied",
+      "per_user": false,
+      "user": [
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9284",
+          "username": "KRAKEN\\kraken_user142"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9157",
+          "username": "KRAKEN\\kraken_user15"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9283",
+          "username": "KRAKEN\\kraken_user141"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9148",
+          "username": "KRAKEN\\kraken_user6"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9306",
+          "username": "KRAKEN\\kraken_user164"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9381",
+          "username": "KRAKEN\\kraken_user239"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9180",
+          "username": "KRAKEN\\kraken_user38"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9196",
+          "username": "KRAKEN\\kraken_user54"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9350",
+          "username": "KRAKEN\\kraken_user208"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9385",
+          "username": "KRAKEN\\kraken_user243"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9353",
+          "username": "KRAKEN\\kraken_user211"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9380",
+          "username": "KRAKEN\\kraken_user238"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9290",
+          "username": "KRAKEN\\kraken_user148"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9348",
+          "username": "KRAKEN\\kraken_user206"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9294",
+          "username": "KRAKEN\\kraken_user152"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9357",
+          "username": "KRAKEN\\kraken_user215"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9332",
+          "username": "KRAKEN\\kraken_user190"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9327",
+          "username": "KRAKEN\\kraken_user185"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9347",
+          "username": "KRAKEN\\kraken_user205"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9319",
+          "username": "KRAKEN\\kraken_user177"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9195",
+          "username": "KRAKEN\\kraken_user53"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9147",
+          "username": "KRAKEN\\kraken_user5"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9338",
+          "username": "KRAKEN\\kraken_user196"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9389",
+          "username": "KRAKEN\\kraken_user247"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9267",
+          "username": "KRAKEN\\kraken_user125"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9316",
+          "username": "KRAKEN\\kraken_user174"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9395",
+          "username": "KRAKEN\\kraken_user253"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9168",
+          "username": "KRAKEN\\kraken_user26"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9373",
+          "username": "KRAKEN\\kraken_user231"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9358",
+          "username": "KRAKEN\\kraken_user216"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9224",
+          "username": "KRAKEN\\kraken_user82"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9289",
+          "username": "KRAKEN\\kraken_user147"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9194",
+          "username": "KRAKEN\\kraken_user52"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9337",
+          "username": "KRAKEN\\kraken_user195"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9270",
+          "username": "KRAKEN\\kraken_user128"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9401",
+          "username": "KRAKEN\\kraken_user259"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9328",
+          "username": "KRAKEN\\kraken_user186"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9275",
+          "username": "KRAKEN\\kraken_user133"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9281",
+          "username": "KRAKEN\\kraken_user139"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9221",
+          "username": "KRAKEN\\kraken_user79"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9260",
+          "username": "KRAKEN\\kraken_user118"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9326",
+          "username": "KRAKEN\\kraken_user184"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9333",
+          "username": "KRAKEN\\kraken_user191"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9413",
+          "username": "KRAKEN\\kraken_user271"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9393",
+          "username": "KRAKEN\\kraken_user251"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9371",
+          "username": "KRAKEN\\kraken_user229"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9259",
+          "username": "KRAKEN\\kraken_user117"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9320",
+          "username": "KRAKEN\\kraken_user178"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9419",
+          "username": "KRAKEN\\kraken_user277"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9188",
+          "username": "KRAKEN\\kraken_user46"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9345",
+          "username": "KRAKEN\\kraken_user203"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9227",
+          "username": "KRAKEN\\kraken_user85"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9256",
+          "username": "KRAKEN\\kraken_user114"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9191",
+          "username": "KRAKEN\\kraken_user49"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9336",
+          "username": "KRAKEN\\kraken_user194"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9374",
+          "username": "KRAKEN\\kraken_user232"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9391",
+          "username": "KRAKEN\\kraken_user249"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9198",
+          "username": "KRAKEN\\kraken_user56"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9144",
+          "username": "KRAKEN\\kraken_user2"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9246",
+          "username": "KRAKEN\\kraken_user104"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9387",
+          "username": "KRAKEN\\kraken_user245"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9204",
+          "username": "KRAKEN\\kraken_user62"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9296",
+          "username": "KRAKEN\\kraken_user154"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9293",
+          "username": "KRAKEN\\kraken_user151"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9205",
+          "username": "KRAKEN\\kraken_user63"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9255",
+          "username": "KRAKEN\\kraken_user113"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9286",
+          "username": "KRAKEN\\kraken_user144"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9254",
+          "username": "KRAKEN\\kraken_user112"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9301",
+          "username": "KRAKEN\\kraken_user159"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9415",
+          "username": "KRAKEN\\kraken_user273"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9184",
+          "username": "KRAKEN\\kraken_user42"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9179",
+          "username": "KRAKEN\\kraken_user37"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9280",
+          "username": "KRAKEN\\kraken_user138"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9217",
+          "username": "KRAKEN\\kraken_user75"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9278",
+          "username": "KRAKEN\\kraken_user136"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9150",
+          "username": "KRAKEN\\kraken_user8"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9249",
+          "username": "KRAKEN\\kraken_user107"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9257",
+          "username": "KRAKEN\\kraken_user115"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9418",
+          "username": "KRAKEN\\kraken_user276"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9181",
+          "username": "KRAKEN\\kraken_user39"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9295",
+          "username": "KRAKEN\\kraken_user153"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9341",
+          "username": "KRAKEN\\kraken_user199"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9368",
+          "username": "KRAKEN\\kraken_user226"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9313",
+          "username": "KRAKEN\\kraken_user171"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9274",
+          "username": "KRAKEN\\kraken_user132"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9160",
+          "username": "KRAKEN\\kraken_user18"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9394",
+          "username": "KRAKEN\\kraken_user252"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9398",
+          "username": "KRAKEN\\kraken_user256"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9377",
+          "username": "KRAKEN\\kraken_user235"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9404",
+          "username": "KRAKEN\\kraken_user262"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9309",
+          "username": "KRAKEN\\kraken_user167"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9163",
+          "username": "KRAKEN\\kraken_user21"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9406",
+          "username": "KRAKEN\\kraken_user264"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9304",
+          "username": "KRAKEN\\kraken_user162"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9421",
+          "username": "KRAKEN\\kraken_user279"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9229",
+          "username": "KRAKEN\\kraken_user87"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9201",
+          "username": "KRAKEN\\kraken_user59"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9230",
+          "username": "KRAKEN\\kraken_user88"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9351",
+          "username": "KRAKEN\\kraken_user209"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9321",
+          "username": "KRAKEN\\kraken_user179"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9245",
+          "username": "KRAKEN\\kraken_user103"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9366",
+          "username": "KRAKEN\\kraken_user224"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9303",
+          "username": "KRAKEN\\kraken_user161"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9335",
+          "username": "KRAKEN\\kraken_user193"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9266",
+          "username": "KRAKEN\\kraken_user124"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9361",
+          "username": "KRAKEN\\kraken_user219"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9206",
+          "username": "KRAKEN\\kraken_user64"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9276",
+          "username": "KRAKEN\\kraken_user134"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9365",
+          "username": "KRAKEN\\kraken_user223"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9203",
+          "username": "KRAKEN\\kraken_user61"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9177",
+          "username": "KRAKEN\\kraken_user35"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9187",
+          "username": "KRAKEN\\kraken_user45"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9251",
+          "username": "KRAKEN\\kraken_user109"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9269",
+          "username": "KRAKEN\\kraken_user127"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9346",
+          "username": "KRAKEN\\kraken_user204"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9170",
+          "username": "KRAKEN\\kraken_user28"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9367",
+          "username": "KRAKEN\\kraken_user225"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9416",
+          "username": "KRAKEN\\kraken_user274"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9285",
+          "username": "KRAKEN\\kraken_user143"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9149",
+          "username": "KRAKEN\\kraken_user7"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9379",
+          "username": "KRAKEN\\kraken_user237"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9411",
+          "username": "KRAKEN\\kraken_user269"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9383",
+          "username": "KRAKEN\\kraken_user241"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9308",
+          "username": "KRAKEN\\kraken_user166"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9218",
+          "username": "KRAKEN\\kraken_user76"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9307",
+          "username": "KRAKEN\\kraken_user165"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9200",
+          "username": "KRAKEN\\kraken_user58"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9409",
+          "username": "KRAKEN\\kraken_user267"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9199",
+          "username": "KRAKEN\\kraken_user57"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9145",
+          "username": "KRAKEN\\kraken_user3"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9297",
+          "username": "KRAKEN\\kraken_user155"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9161",
+          "username": "KRAKEN\\kraken_user19"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9233",
+          "username": "KRAKEN\\kraken_user91"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9323",
+          "username": "KRAKEN\\kraken_user181"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9349",
+          "username": "KRAKEN\\kraken_user207"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9405",
+          "username": "KRAKEN\\kraken_user263"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9396",
+          "username": "KRAKEN\\kraken_user254"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9146",
+          "username": "KRAKEN\\kraken_user4"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9176",
+          "username": "KRAKEN\\kraken_user34"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9277",
+          "username": "KRAKEN\\kraken_user135"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9390",
+          "username": "KRAKEN\\kraken_user248"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9231",
+          "username": "KRAKEN\\kraken_user89"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9186",
+          "username": "KRAKEN\\kraken_user44"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9305",
+          "username": "KRAKEN\\kraken_user163"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9263",
+          "username": "KRAKEN\\kraken_user121"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9220",
+          "username": "KRAKEN\\kraken_user78"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9355",
+          "username": "KRAKEN\\kraken_user213"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9228",
+          "username": "KRAKEN\\kraken_user86"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9382",
+          "username": "KRAKEN\\kraken_user240"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9414",
+          "username": "KRAKEN\\kraken_user272"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9166",
+          "username": "KRAKEN\\kraken_user24"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9190",
+          "username": "KRAKEN\\kraken_user48"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9329",
+          "username": "KRAKEN\\kraken_user187"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9359",
+          "username": "KRAKEN\\kraken_user217"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9208",
+          "username": "KRAKEN\\kraken_user66"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9247",
+          "username": "KRAKEN\\kraken_user105"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9258",
+          "username": "KRAKEN\\kraken_user116"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9178",
+          "username": "KRAKEN\\kraken_user36"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9407",
+          "username": "KRAKEN\\kraken_user265"
+        }
+      ]
+    },
+    {
+      "execution_time": "2019-06-13T09:10:43.876380689Z",
+      "fslog_period_end": "2019-06-13T09:00:00Z",
+      "fslog_period_start": "2019-06-13T08:00:00Z",
+      "operation_count": 7419,
+      "operation_name": "PermissionDenied",
+      "per_user": false,
+      "user": [
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9420",
+          "username": "KRAKEN\\kraken_user278"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9280",
+          "username": "KRAKEN\\kraken_user138"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9406",
+          "username": "KRAKEN\\kraken_user264"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9416",
+          "username": "KRAKEN\\kraken_user274"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9195",
+          "username": "KRAKEN\\kraken_user53"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9267",
+          "username": "KRAKEN\\kraken_user125"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9206",
+          "username": "KRAKEN\\kraken_user64"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9293",
+          "username": "KRAKEN\\kraken_user151"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9249",
+          "username": "KRAKEN\\kraken_user107"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9364",
+          "username": "KRAKEN\\kraken_user222"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9310",
+          "username": "KRAKEN\\kraken_user168"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9243",
+          "username": "KRAKEN\\kraken_user101"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9370",
+          "username": "KRAKEN\\kraken_user228"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9418",
+          "username": "KRAKEN\\kraken_user276"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9390",
+          "username": "KRAKEN\\kraken_user248"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9391",
+          "username": "KRAKEN\\kraken_user249"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9414",
+          "username": "KRAKEN\\kraken_user272"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9308",
+          "username": "KRAKEN\\kraken_user166"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9269",
+          "username": "KRAKEN\\kraken_user127"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9353",
+          "username": "KRAKEN\\kraken_user211"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9229",
+          "username": "KRAKEN\\kraken_user87"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9328",
+          "username": "KRAKEN\\kraken_user186"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9374",
+          "username": "KRAKEN\\kraken_user232"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9227",
+          "username": "KRAKEN\\kraken_user85"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9323",
+          "username": "KRAKEN\\kraken_user181"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9417",
+          "username": "KRAKEN\\kraken_user275"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9362",
+          "username": "KRAKEN\\kraken_user220"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9404",
+          "username": "KRAKEN\\kraken_user262"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9360",
+          "username": "KRAKEN\\kraken_user218"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9373",
+          "username": "KRAKEN\\kraken_user231"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9183",
+          "username": "KRAKEN\\kraken_user41"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9158",
+          "username": "KRAKEN\\kraken_user16"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9288",
+          "username": "KRAKEN\\kraken_user146"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9212",
+          "username": "KRAKEN\\kraken_user70"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9289",
+          "username": "KRAKEN\\kraken_user147"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9403",
+          "username": "KRAKEN\\kraken_user261"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9331",
+          "username": "KRAKEN\\kraken_user189"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9254",
+          "username": "KRAKEN\\kraken_user112"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9412",
+          "username": "KRAKEN\\kraken_user270"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9149",
+          "username": "KRAKEN\\kraken_user7"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9181",
+          "username": "KRAKEN\\kraken_user39"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9156",
+          "username": "KRAKEN\\kraken_user14"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9163",
+          "username": "KRAKEN\\kraken_user21"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9180",
+          "username": "KRAKEN\\kraken_user38"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9317",
+          "username": "KRAKEN\\kraken_user175"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9326",
+          "username": "KRAKEN\\kraken_user184"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9169",
+          "username": "KRAKEN\\kraken_user27"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9372",
+          "username": "KRAKEN\\kraken_user230"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9222",
+          "username": "KRAKEN\\kraken_user80"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9202",
+          "username": "KRAKEN\\kraken_user60"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9270",
+          "username": "KRAKEN\\kraken_user128"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9283",
+          "username": "KRAKEN\\kraken_user141"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9274",
+          "username": "KRAKEN\\kraken_user132"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9246",
+          "username": "KRAKEN\\kraken_user104"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9319",
+          "username": "KRAKEN\\kraken_user177"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9162",
+          "username": "KRAKEN\\kraken_user20"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9299",
+          "username": "KRAKEN\\kraken_user157"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9257",
+          "username": "KRAKEN\\kraken_user115"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9255",
+          "username": "KRAKEN\\kraken_user113"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9201",
+          "username": "KRAKEN\\kraken_user59"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9233",
+          "username": "KRAKEN\\kraken_user91"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9175",
+          "username": "KRAKEN\\kraken_user33"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9392",
+          "username": "KRAKEN\\kraken_user250"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9287",
+          "username": "KRAKEN\\kraken_user145"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9415",
+          "username": "KRAKEN\\kraken_user273"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9258",
+          "username": "KRAKEN\\kraken_user116"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9394",
+          "username": "KRAKEN\\kraken_user252"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9307",
+          "username": "KRAKEN\\kraken_user165"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9266",
+          "username": "KRAKEN\\kraken_user124"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9401",
+          "username": "KRAKEN\\kraken_user259"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9223",
+          "username": "KRAKEN\\kraken_user81"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9200",
+          "username": "KRAKEN\\kraken_user58"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9385",
+          "username": "KRAKEN\\kraken_user243"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9411",
+          "username": "KRAKEN\\kraken_user269"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9190",
+          "username": "KRAKEN\\kraken_user48"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9259",
+          "username": "KRAKEN\\kraken_user117"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9150",
+          "username": "KRAKEN\\kraken_user8"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9363",
+          "username": "KRAKEN\\kraken_user221"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9346",
+          "username": "KRAKEN\\kraken_user204"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9302",
+          "username": "KRAKEN\\kraken_user160"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9215",
+          "username": "KRAKEN\\kraken_user73"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9204",
+          "username": "KRAKEN\\kraken_user62"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9157",
+          "username": "KRAKEN\\kraken_user15"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9298",
+          "username": "KRAKEN\\kraken_user156"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9292",
+          "username": "KRAKEN\\kraken_user150"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9247",
+          "username": "KRAKEN\\kraken_user105"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9261",
+          "username": "KRAKEN\\kraken_user119"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9382",
+          "username": "KRAKEN\\kraken_user240"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9349",
+          "username": "KRAKEN\\kraken_user207"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9221",
+          "username": "KRAKEN\\kraken_user79"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9256",
+          "username": "KRAKEN\\kraken_user114"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9178",
+          "username": "KRAKEN\\kraken_user36"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9203",
+          "username": "KRAKEN\\kraken_user61"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9295",
+          "username": "KRAKEN\\kraken_user153"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9383",
+          "username": "KRAKEN\\kraken_user241"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9365",
+          "username": "KRAKEN\\kraken_user223"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9351",
+          "username": "KRAKEN\\kraken_user209"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9260",
+          "username": "KRAKEN\\kraken_user118"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9294",
+          "username": "KRAKEN\\kraken_user152"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9318",
+          "username": "KRAKEN\\kraken_user176"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9155",
+          "username": "KRAKEN\\kraken_user13"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9167",
+          "username": "KRAKEN\\kraken_user25"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9303",
+          "username": "KRAKEN\\kraken_user161"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9231",
+          "username": "KRAKEN\\kraken_user89"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9286",
+          "username": "KRAKEN\\kraken_user144"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9340",
+          "username": "KRAKEN\\kraken_user198"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9281",
+          "username": "KRAKEN\\kraken_user139"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9325",
+          "username": "KRAKEN\\kraken_user183"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9224",
+          "username": "KRAKEN\\kraken_user82"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9146",
+          "username": "KRAKEN\\kraken_user4"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9230",
+          "username": "KRAKEN\\kraken_user88"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9265",
+          "username": "KRAKEN\\kraken_user123"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9208",
+          "username": "KRAKEN\\kraken_user66"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9413",
+          "username": "KRAKEN\\kraken_user271"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9186",
+          "username": "KRAKEN\\kraken_user44"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9198",
+          "username": "KRAKEN\\kraken_user56"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9357",
+          "username": "KRAKEN\\kraken_user215"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9154",
+          "username": "KRAKEN\\kraken_user12"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9164",
+          "username": "KRAKEN\\kraken_user22"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9278",
+          "username": "KRAKEN\\kraken_user136"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9367",
+          "username": "KRAKEN\\kraken_user225"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9161",
+          "username": "KRAKEN\\kraken_user19"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9262",
+          "username": "KRAKEN\\kraken_user120"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9347",
+          "username": "KRAKEN\\kraken_user205"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9205",
+          "username": "KRAKEN\\kraken_user63"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9300",
+          "username": "KRAKEN\\kraken_user158"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9397",
+          "username": "KRAKEN\\kraken_user255"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9268",
+          "username": "KRAKEN\\kraken_user126"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9263",
+          "username": "KRAKEN\\kraken_user121"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9191",
+          "username": "KRAKEN\\kraken_user49"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9342",
+          "username": "KRAKEN\\kraken_user200"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9170",
+          "username": "KRAKEN\\kraken_user28"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9399",
+          "username": "KRAKEN\\kraken_user257"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9197",
+          "username": "KRAKEN\\kraken_user55"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9339",
+          "username": "KRAKEN\\kraken_user197"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9232",
+          "username": "KRAKEN\\kraken_user90"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9172",
+          "username": "KRAKEN\\kraken_user30"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9395",
+          "username": "KRAKEN\\kraken_user253"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9153",
+          "username": "KRAKEN\\kraken_user11"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9379",
+          "username": "KRAKEN\\kraken_user237"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9398",
+          "username": "KRAKEN\\kraken_user256"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9168",
+          "username": "KRAKEN\\kraken_user26"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9196",
+          "username": "KRAKEN\\kraken_user54"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9311",
+          "username": "KRAKEN\\kraken_user169"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9350",
+          "username": "KRAKEN\\kraken_user208"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9251",
+          "username": "KRAKEN\\kraken_user109"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9355",
+          "username": "KRAKEN\\kraken_user213"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9352",
+          "username": "KRAKEN\\kraken_user210"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9402",
+          "username": "KRAKEN\\kraken_user260"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9343",
+          "username": "KRAKEN\\kraken_user201"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9304",
+          "username": "KRAKEN\\kraken_user162"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9333",
+          "username": "KRAKEN\\kraken_user191"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9297",
+          "username": "KRAKEN\\kraken_user155"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9219",
+          "username": "KRAKEN\\kraken_user77"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9284",
+          "username": "KRAKEN\\kraken_user142"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9248",
+          "username": "KRAKEN\\kraken_user106"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9176",
+          "username": "KRAKEN\\kraken_user34"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9321",
+          "username": "KRAKEN\\kraken_user179"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9421",
+          "username": "KRAKEN\\kraken_user279"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9329",
+          "username": "KRAKEN\\kraken_user187"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9220",
+          "username": "KRAKEN\\kraken_user78"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9276",
+          "username": "KRAKEN\\kraken_user134"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9344",
+          "username": "KRAKEN\\kraken_user202"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9336",
+          "username": "KRAKEN\\kraken_user194"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9273",
+          "username": "KRAKEN\\kraken_user131"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9305",
+          "username": "KRAKEN\\kraken_user163"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9369",
+          "username": "KRAKEN\\kraken_user227"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9177",
+          "username": "KRAKEN\\kraken_user35"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9252",
+          "username": "KRAKEN\\kraken_user110"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9213",
+          "username": "KRAKEN\\kraken_user71"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9245",
+          "username": "KRAKEN\\kraken_user103"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9315",
+          "username": "KRAKEN\\kraken_user173"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9275",
+          "username": "KRAKEN\\kraken_user133"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9324",
+          "username": "KRAKEN\\kraken_user182"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9151",
+          "username": "KRAKEN\\kraken_user9"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9188",
+          "username": "KRAKEN\\kraken_user46"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9211",
+          "username": "KRAKEN\\kraken_user69"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9378",
+          "username": "KRAKEN\\kraken_user236"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9301",
+          "username": "KRAKEN\\kraken_user159"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9192",
+          "username": "KRAKEN\\kraken_user50"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9359",
+          "username": "KRAKEN\\kraken_user217"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9335",
+          "username": "KRAKEN\\kraken_user193"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9341",
+          "username": "KRAKEN\\kraken_user199"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9173",
+          "username": "KRAKEN\\kraken_user31"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9189",
+          "username": "KRAKEN\\kraken_user47"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9253",
+          "username": "KRAKEN\\kraken_user111"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9296",
+          "username": "KRAKEN\\kraken_user154"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9187",
+          "username": "KRAKEN\\kraken_user45"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9320",
+          "username": "KRAKEN\\kraken_user178"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9316",
+          "username": "KRAKEN\\kraken_user174"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9380",
+          "username": "KRAKEN\\kraken_user238"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9291",
+          "username": "KRAKEN\\kraken_user149"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9396",
+          "username": "KRAKEN\\kraken_user254"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9322",
+          "username": "KRAKEN\\kraken_user180"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9194",
+          "username": "KRAKEN\\kraken_user52"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9165",
+          "username": "KRAKEN\\kraken_user23"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9356",
+          "username": "KRAKEN\\kraken_user214"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9193",
+          "username": "KRAKEN\\kraken_user51"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9166",
+          "username": "KRAKEN\\kraken_user24"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9228",
+          "username": "KRAKEN\\kraken_user86"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9144",
+          "username": "KRAKEN\\kraken_user2"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9314",
+          "username": "KRAKEN\\kraken_user172"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9184",
+          "username": "KRAKEN\\kraken_user42"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9366",
+          "username": "KRAKEN\\kraken_user224"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9361",
+          "username": "KRAKEN\\kraken_user219"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9313",
+          "username": "KRAKEN\\kraken_user171"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9371",
+          "username": "KRAKEN\\kraken_user229"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9285",
+          "username": "KRAKEN\\kraken_user143"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9250",
+          "username": "KRAKEN\\kraken_user108"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9179",
+          "username": "KRAKEN\\kraken_user37"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9264",
+          "username": "KRAKEN\\kraken_user122"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9419",
+          "username": "KRAKEN\\kraken_user277"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9387",
+          "username": "KRAKEN\\kraken_user245"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9337",
+          "username": "KRAKEN\\kraken_user195"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9271",
+          "username": "KRAKEN\\kraken_user129"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9368",
+          "username": "KRAKEN\\kraken_user226"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9376",
+          "username": "KRAKEN\\kraken_user234"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9377",
+          "username": "KRAKEN\\kraken_user235"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9407",
+          "username": "KRAKEN\\kraken_user265"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9277",
+          "username": "KRAKEN\\kraken_user135"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9145",
+          "username": "KRAKEN\\kraken_user3"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9217",
+          "username": "KRAKEN\\kraken_user75"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9171",
+          "username": "KRAKEN\\kraken_user29"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9348",
+          "username": "KRAKEN\\kraken_user206"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9405",
+          "username": "KRAKEN\\kraken_user263"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9272",
+          "username": "KRAKEN\\kraken_user130"
+        }
+      ]
+    },
+    {
+      "execution_time": "2019-06-13T08:06:30.398552036Z",
+      "fslog_period_end": "2019-06-13T08:00:00Z",
+      "fslog_period_start": "2019-06-13T07:00:00Z",
+      "operation_count": 614,
+      "operation_name": "PermissionDenied",
+      "per_user": false,
+      "user": [
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9418",
+          "username": "KRAKEN\\kraken_user276"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9231",
+          "username": "KRAKEN\\kraken_user89"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9285",
+          "username": "KRAKEN\\kraken_user143"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9208",
+          "username": "KRAKEN\\kraken_user66"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9312",
+          "username": "KRAKEN\\kraken_user170"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9364",
+          "username": "KRAKEN\\kraken_user222"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9394",
+          "username": "KRAKEN\\kraken_user252"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9296",
+          "username": "KRAKEN\\kraken_user154"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9227",
+          "username": "KRAKEN\\kraken_user85"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9229",
+          "username": "KRAKEN\\kraken_user87"
+        },
+        {
+          "user_id": "S-1-5-21-3542654583-3704915201-649732123-9334",
+          "username": "KRAKEN\\kraken_user192"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "count": 3,
+    "page": 0,
+    "total": 3
+  }
+}

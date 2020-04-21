@@ -1,0 +1,33 @@
+<button
+  class="
+    btn
+    <%= isPrimary ? 'n-primary-btn' : 'n-secondary-btn' %>
+    <%= extraClasses %>
+  "
+  <% if (disabled) { %>
+    disabled
+  <% } %>
+  <%
+    if (extraAttr) {
+      for (var attr in extraAttr) {
+  %>
+    <%= extraAttr[attr].key %>=<%= extraAttr[attr].value %>
+  <%
+      }
+    }
+  %>
+>
+
+  <% if (iconLeft) { %>
+    <%= Components.icon(iconLeft, 'icon-left -small') %>
+  <% } %>
+
+  <% if (iconRight) { %>
+    <%= Components.icon(iconRight, 'icon-right -small') %>
+  <% } %>
+
+  <span class="btn-content">
+    <%= text %>
+  </span>
+
+</button>

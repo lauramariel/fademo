@@ -1,0 +1,73 @@
+<% if(showAdDetails){ %>
+<section data-ntnx-section>
+  <h5 data-ntnx-title>
+    AD Configuration
+  </h5>
+  <section data-ntnx-section>
+    <table class="table">
+      <tbody>
+      <tr>
+        <td>Protocol</td>
+        <td><%= protocol %></td>
+      </tr>
+      <tr>
+        <td>Active Directory Realm Name</td>
+        <td><%= domain %></td>
+      </tr>
+      <tr>
+        <td>Username</td>
+        <td><%= username %></td>
+      </tr>
+      </tbody>
+    </table>
+  </section>
+</section>
+<% } %>
+
+<% if(showLdapDetails){ %>
+<section data-ntnx-section>
+  <h5 data-ntnx-title>
+    LDAP Configuration
+  </h5>
+  <section data-ntnx-section>
+    <table class="table">
+      <tbody>
+      <tr>
+        <td>LDAP Server URI</td>
+        <td><%= server_url %></td>
+      </tr>
+      <tr>
+        <td>Base DN</td>
+        <td><%= base_dn %></td>
+      </tr>
+      <tr>
+        <td>Bind DN</td>
+        <td><%= bind_dn %></td>
+      </tr>
+      </tbody>
+    </table>
+  </section>
+</section>
+<% } %>
+<% if(showLocalDetails){ %>
+<section data-ntnx-section>
+  <h5 data-ntnx-title>
+    NFS Configuration
+  </h5>
+  <section data-ntnx-section>
+    <table class="table">
+      <tbody>
+      <tr>
+        <td>Auth Type</td>
+        <td>Unmanaged</td>
+      </tr>
+      </tbody>
+    </table>
+  </section>
+</section>
+<% } %>
+<% if(!showAdDetails && !showLdapDetails && !showLocalDetails) { %>
+<section data-ntnx-section>
+  <p><%= msg %></p>
+</section>
+<% } %>

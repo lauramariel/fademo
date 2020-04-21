@@ -1,0 +1,9 @@
+<!-- shadow svg -->
+<svg class='floating-prism-logo-shadow' width="50" height="25" viewBox="0 0 60 25">
+  <defs>
+    <filter id="blur" x="0" y="0" filterUnits="objectBoundingBox">
+      <feGaussianBlur stdDeviation="1.42299107" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path filter="url(#blur)" d="M34.7 0.8C32.1-0.3 28-0.2 25.4 0.8L1.9 10.6C-0.6 11.6-0.6 13.3 1.9 14.4L24.9 24.2C27.4 25.3 31.5 25.3 34.1 24.2L58.1 14C60.6 12.9 60.6 11.2 58 10.2L34.7 0.8Z"/>
+</svg>

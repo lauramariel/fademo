@@ -1,0 +1,14 @@
+<div class="filter-bubbles <%= classes %>">
+  <% _.each(options,function(option){ %>
+  <div class="filter-box <%= option.filterId %>" title="<%= option.tooltip %>">
+    <div class="filter-name">
+      <%= option.label %>
+    </div>
+    <% if (!option.hideClose) { %>
+    <div class="close-btn" data-id="<%= option.filterId %>">
+      <%= Components.icon("K","-inline -micro -animated", "") %>
+    </div>
+    <% } %>
+  </div>
+  <% }); %>
+</div>

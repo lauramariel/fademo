@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "count": 5,
+      "name": "Rename"
+    },
+    {
+      "count": 107,
+      "name": "FileDelete"
+    },
+    {
+      "count": 14,
+      "name": "FileRead"
+    },
+    {
+      "count": 347,
+      "name": "SetAttr"
+    },
+    {
+      "count": 0,
+      "name": "SecurityChange"
+    },
+    {
+      "count": 106,
+      "name": "FileCreate"
+    },
+    {
+      "count": 97,
+      "name": "FileWrite"
+    },
+    {
+      "count": 5,
+      "name": "DirectoryCreate"
+    },
+    {
+      "count": 7,
+      "name": "DirectoryDelete"
+    },
+    {
+      "count": 0,
+      "name": "Symlink"
+    }
+  ],
+  "metadata": {
+    "count": 10,
+    "page": 0,
+    "total": 10
+  }
+}

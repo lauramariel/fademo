@@ -1,0 +1,258 @@
+.n-nav-bar .db-label li .n-main-menu li .db-list li .optionviewer .field-name {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.db-label a {
+  font-weight: 400 !important;
+}
+.selected-dashboard {
+  vertical-align: initial !important;
+  top: 0 !important;
+}
+#n-header .navbar .n-header-level-1 .n-navigation > .n-header-items {
+    position: relative;
+    float: left;
+    font-family: 'Nutanix Soft', Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 15px;
+    cursor: pointer;
+}
+#n-header .navbar .n-header-level-1 .n-navigation .n-nav-bar .n-main-menu-btn >
+ li > a > .n-nav-label {
+  width: auto;
+}
+#n-header .navbar .n-header-level-1 .n-navigation .n-nav-bar .n-main-menu-btn
+.n-main-menu li > a:hover {
+  color: #ffffff;
+}
+#n-header .navbar .n-header-level-1 .n-navigation .pull-right
+.right-menu .n-settings > a > .svg-icon.gear-icon {
+  top: 0px;
+}
+.n-username {
+  max-width: 100px !important;
+  overflow: hidden !important;
+}
+#n-header .navbar .n-header-level-1
+.n-navigation .pull-right .right-menu
+.n-settings > a > .svg-icon.settings-arrow {
+  margin-left: 0;
+}
+.n-header-tasks {
+  float: left;
+  font-family: 'ProximaNovaSoft', Helvetica Neue, Helvetica, Arial, sans-serif;
+  height: 60px;
+  line-height: 60px;
+}
+.n-header-tasks .btn-group {
+  margin: 0;
+}
+.n-header-tasks .btn-group .task-dropdown-icon .svg-icon {
+  pointer-events: none;
+  position: relative;
+  top: 5px;
+  margin-left: 7px;
+  display: inline;
+  fill: #89949b;
+}
+.n-header-tasks .btn-group .n-tasks-dropdown {
+  min-width: 404px;
+  position: absolute;
+}
+.n-header-tasks .btn-group .n-tasks-dropdown::before {
+  position: absolute;
+  top: -10px;
+  left: 20px;
+}
+.n-header-tasks .btn-group .n-tasks-dropdown .n-task-antiscroll {
+  display: block;
+  max-height: 300px;
+}
+.n-header-tasks .btn-group .n-tasks-dropdown .n-task-antiscroll
+.antiscroll-scrollbar-vertical {
+  right: 8px;
+  background-color: #6f787e;
+}
+.n-header-tasks .btn-group .n-task-wrapper {
+  cursor: pointer;
+  font-size: 0;
+  line-height: 60px;
+  padding-right: 15px;
+}
+.n-header-tasks .btn-group .n-task-wrapper::before {
+  content: '';
+  background: #3f4142;
+  width: 2px;
+  height: 2px;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+  bottom: 2px;
+}
+.n-header-tasks .btn-group .n-task-wrapper > div.radial {
+  cursor: pointer;
+  position: relative;
+  left: 0.5px;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #6f787e !important;
+}
+.n-header-tasks .btn-group .n-task-wrapper > div.radial.none {
+  background-color: #6f787e;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-button {
+  position: relative;
+  bottom: 6px;
+  margin-left: 7px;
+  min-width: 18px;
+  line-height: 13px;
+  letter-spacing: 0.06em;
+  font-size: 9px;
+  padding: 3px 5px 2px 5px;
+  font-weight: 500;
+  vertical-align: middle;
+  background-color: #26bbf0;
+  border: none;
+  border-radius: 22px;
+  color: #ffffff;
+  outline: none !important;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-button.none {
+  display: none;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-button:hover {
+  background-color: #1fa6d6;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-dot-failed {
+  display: none;
+  position: relative;
+  border: none;
+  border-radius: 22px;
+  color: #ffffff;
+  outline: none !important;
+  margin-top: 0;
+  margin-left: 5px;
+  padding: 0;
+  font-size: 10px;
+  font-weight: 700;
+  min-width: 5px;
+  background-color: #cc6164;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-dot-failed::after {
+  content: '';
+  width: 5px;
+  height: 5px;
+  display: block;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-dot-failed::after:hover {
+  background-color: #cc6164;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-dot-failed.show {
+  display: inline-block !important;
+}
+.n-header-tasks .btn-group .n-task-wrapper .n-task-dot-failed:hover {
+  background-color: #cc6164;
+}
+.n-header-tasks .btn-group .n-task-menu {
+  background-color: #3f4142;
+  padding: 15px 20px 15px 10px;
+  border-radius: 0;
+}
+.n-header-tasks .btn-group .n-task-menu li.sep {
+  border-top: 1px solid #3f4142;
+  margin: 13px 12px 8px 12px;
+  width: 360px;
+}
+.n-header-tasks .btn-group .n-task-menu .n-task-menuitem {
+  margin: 6px 0;
+  width: 374px;
+  position: relative;
+  font-family: 'ProximaNovaSoft', Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  display: inline-block;
+  color: #89949b;
+}
+.n-header-tasks .btn-group .n-task-menu .n-task-menuitem .n-task-message {
+  margin: 0 0 0 12px;
+  font-size: 12px;
+}
+
+.n-header-tasks .btn-group .n-task-menu .n-task-menuitem .n-task-message
+.n-task-message-text {
+  width: 295px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
+  white-space: inherit !important;
+}
+.n-header-tasks .btn-group .n-task-menu .n-task-menuitem .n-task-message
+.n-percent-text {
+  display: inline-block;
+  margin-left: 10px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.n-header-tasks .btn-group .n-task-menu .n-task-menuitem img {
+  vertical-align: top;
+  font-size: 10px;
+  margin: 0 7px 0 12px;
+  display: inline-block;
+  float: left;
+}
+.task-progress-loader-wrapper {
+  width: 15px;
+  background-color: transparent;
+  z-index: 1090;
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.n-header-tasks .btn-group .n-task-wrapper > div.error-bg {
+  background-color: #cc6164 !important;
+}
+.n-header-cluster-health .n-nav-label:hover {
+  color : #ffffff;
+}
+body.prism-central .n-header-tasks .btn-group::before {
+  visibility: hidden;
+}
+#n-header .navbar .n-header-level-1 .n-navigation.-hide > div {
+  display: none;
+}
+#n-header .navbar .n-header-level-1 .n-navigation.-show > div {
+  display: block;
+}
+#n-header .new-tag.-red-confirm {
+  color: #cf6a6d !important;
+  background-color: #ffffff;
+  border-color: #cf6a6d;
+  padding: 3px;
+}
+#n-header .navbar .n-header-level-1 .n-navigation .n-multi-nav-bar .n-multicluster-btn > li > a,
+#n-header .navbar .n-header-level-1 .n-navigation.-show > div.n-disable-tag,
+#n-header .n-disable-tag a {
+  cursor: default !important;
+}
+#n-header .n-head-name {
+  line-height: 31px !important;
+  padding-top: 15px;
+}
+#n-header .n-sub-name {
+  font-size: 11px;
+}
+#n-header .title-tooltip {
+  left: 20px;
+  width: 400px;
+  display: none;
+}
+#n-header .title-tooltip .tooltip-arrow {
+  left: 5%;
+}
+#n-header .title-tooltip .tooltip-inner {
+  max-width: 400px;
+}
+#n-header .file-analytics-title:hover span {
+  text-decoration: none !important;
+}

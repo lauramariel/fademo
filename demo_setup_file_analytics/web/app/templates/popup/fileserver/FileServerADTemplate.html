@@ -1,0 +1,61 @@
+<div class="adContainer">
+  <% if (protocol) { %>
+  <section data-ntnx-section="type-separator">
+    <h5 data-ntnx-title><%= protocol %> Authentication</h5>
+    <p data-ntnx-section="type-text" class="<%= titleClass %>">
+      File Analytics server crawls through the files and collects data. It needs
+      a admin user credentials for the task. Enter the Active Directory user
+      credentials for the <%= protocol %> protocol with admin user privileges
+    </p>
+  </section>
+  <% } %>
+  <!-- Windows AD Domain -->
+  <section data-ntnx-section>
+    <!-- Name of realm -->
+    <label data-ntnx-label for="adRealmName">
+      Active Directory Realm Name
+    </label>
+    <div class="adRealNameTooltip">
+      <input type="text" id="adRealmName" name="domain" class="adFields"
+             data-error-label="Active Directory Realm Name"
+             value="<%= adDomain %>" placeholder="like: dom.companyname.com">
+    </div>
+  </section>
+  <div class="n-clearfix">
+    <!-- Windows AD username -->
+    <section data-ntnx-section="type-half">
+      <label data-ntnx-label for="adUsername">
+        Username
+        <% if (showAdUserTooltip) { %>
+          <span class="nutanixMoreInfo"
+            data-tooltip-classes="-nudge-up"
+            data-tooltip-container="body"
+            data-tooltip-title="<%= adUserTooltip %>">
+          </span>
+        <% } %>
+      </label>
+      <% if (userTempl) { %>
+        <%= userTempl %>
+      <% } else { %>
+        <input type="text" id="adUsername" name="username" class="adFields"
+               data-error-label="Username"
+               value="<%= userName %>">
+      <% } %>
+    </section>
+
+    <!-- Windows AD password -->
+    <section data-ntnx-section="type-half">
+      <label data-ntnx-label for="adPassword">
+        Password
+      </label>
+      <input type="password" id="adPassword" name="password"
+             data-error-label="Password">
+      <% if(msg) { %>
+      <div data-ntnx-hint=""
+           id="hintAdPassword">
+        <%= msg %>
+      </div>
+      <% } %>
+    </section>
+  </div>
+</div>

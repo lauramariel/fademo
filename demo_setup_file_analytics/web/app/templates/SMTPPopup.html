@@ -1,0 +1,77 @@
+<form id="smtpPopupForm">
+  <section data-ntnx-section="type-text">
+      Configure the SMTP server that the File Analytics software should use to
+      send email notifications (such as alerts).
+  </section>
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      Hostname Or IP Address
+    </label>
+    <input type="text" class="smtpHost">
+  </section>
+
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      Port
+    </label>
+    <input type="text" class="smtpPort">
+  </section>
+
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      Security Mode
+    </label>
+    <%= Components.select({
+      id: 'inputSecureMode',
+      jsClasses: 'inputSecureMode',
+      useBrowserSelect: true,
+      options: [{
+        name: 'NONE',
+        value: 'NONE',
+        selected: true
+      }, {
+        name: 'STARTTLS',
+        value: 'STARTTLS'
+      }, {
+        name: 'SSL',
+        value: 'SSL'
+      }]
+    }) %>
+  </section>
+
+  <section data-ntnx-section class="userName">
+    <label data-ntnx-label>
+      User name
+    </label>
+    <input type="text" class="inputUsername">
+  </section>
+
+  <section data-ntnx-section class="password">
+    <label data-ntnx-label>
+      Password
+    </label>
+    <input type="password" autocomplete="off" class="smtpPassword">
+    <div data-ntnx-hint="" class="password-row-description">
+      Enter new password to change it.
+    </div>
+  </section>
+
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      From Email Address
+    </label>
+    <input type="text" class="smtpFromEmailId" autocomplete="off">
+  </section>
+
+  <section data-ntnx-section>
+    <label data-ntnx-label>
+      Recipient Email Address
+        <span class="nutanixMoreInfo"
+          data-tooltip-classes="-nudge-up"
+          data-tooltip-container="body"
+          data-tooltip-title="<%= toEmailIdTooltip %>">
+        </span>
+    </label>
+    <input type="text" class="smtpToEmailId" autocomplete="off">
+  </section>
+</form>

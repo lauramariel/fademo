@@ -1,0 +1,176 @@
+// Copyright (c) 2018 Nutanix Inc. All rights reserved.
+//
+// Prism 2.0: Colors
+//
+
+//--------------------------------------------------
+// stylelint-disable
+
+@black: #000000;
+@semi-black: #1B2025;
+
+@dark-gray-1: #22272E;
+@dark-gray-2: #37414B;
+@dark-gray-3: #4D5969;
+
+@gray-1: #627386;
+@gray-2: #7C8D9F;
+@gray-3: #9AA5B5;
+
+@light-gray-1: #B8BFCA;
+@light-gray-2: #D5DAE0;
+@light-gray-3: #F2F4F6;
+
+@semi-white: #F8F9FA;
+@white: #FFFFFF;
+
+//b
+@dark-blue-1:         spin(mix(@blue-1, #000, 70%),12);  // 1856ad
+@dark-blue-2:         spin(mix(@blue-1, #000, 80%),8);  // 1b6dc6
+@dark-blue-3:         spin(mix(@blue-1, #000, 90%),4);  // 1f88de
+@blue-1:              #22A5F7;
+@blue-2:              mix(@blue-1, #fff, 75%);  // 59bcf9
+@blue-3:              mix(@blue-1, #fff, 50%);  // 91d2fb
+@light-blue-1:        mix(@blue-1, #fff, 30%);  // bde4fd
+@light-blue-2:        mix(@blue-1, #fff, 20%);  // d3edfd
+@light-blue-3:        mix(@blue-1, #fff, 10%);  // e9f6fe
+@semi-white-blue:     mix(@blue-1, #fff, 5%);  // f4fbff
+
+//r
+@dark-red-1:          spin(mix(@red-1, #000, 70%),-12);  // ab3c52
+@dark-red-2:          spin(mix(@red-1, #000, 80%),-8);  // c44556
+@dark-red-3:          spin(mix(@red-1, #000, 90%),-4);  // dc4d57
+@red-1:               #F55656;
+@red-2:               mix(@red-1, #fff, 75%);  // f88080
+@red-3:               mix(@red-1, #fff, 50%);  // faabab
+@light-red-1:         mix(@red-1, #fff, 30%);  // fccccc
+@light-red-2:         mix(@red-1, #fff, 20%);  // fddddd
+@light-red-3:         mix(@red-1, #fff, 10%);  // feeeee
+@semi-white-red:      mix(@red-1, #fff, 5%);  // fff7f7
+
+//y
+@dark-yellow-1:       spin(mix(@yellow-1, #000, 70%),-12);  // b36108
+@dark-yellow-2:       spin(mix(@yellow-1, #000, 80%),-8);  // cc7c09
+@dark-yellow-3:       spin(mix(@yellow-1, #000, 90%),-4);  // e69b0a
+@yellow-1:            #ffbc0b;
+@yellow-2:            mix(@yellow-1, #fff, 75%);  // ffcd48
+@yellow-3:            mix(@yellow-1, #fff, 50%);  // ffde85
+@light-yellow-1:      mix(@yellow-1, #fff, 30%);  // ffebb6
+@light-yellow-2:      mix(@yellow-1, #fff, 20%);  // fff2ce
+@light-yellow-3:      mix(@yellow-1, #fff, 10%);  // fff8e7
+@semi-white-yellow:   mix(@yellow-1, #fff, 5%);  // fffcf3
+
+//g
+@dark-green-1:        spin(mix(@green-1, #000, 70%),12);  // 26925e
+@dark-green-2:        spin(mix(@green-1, #000, 80%),8);  // 2ba664
+@dark-green-3:        spin(mix(@green-1, #000, 90%),4);  // 31bb67
+@green-1:             #36D068;
+@green-2:             mix(@green-1, #fff, 75%);  // 68dc8e
+@green-3:             mix(@green-1, #fff, 50%);  // 9be8b4
+@light-green-1:       mix(@green-1, #fff, 30%);  // c3f1d2
+@light-green-2:       mix(@green-1, #fff, 20%);  // d7f6e1
+@light-green-3:       mix(@green-1, #fff, 10%);  // ebfaf0
+@semi-white-green:    mix(@green-1, #fff, 5%);  // f5fdf7
+
+//hc b
+@hc-dark-blue-1:         spin(mix(@hc-blue-1, #000, 70%),12);  // 163896
+@hc-dark-blue-2:         spin(mix(@hc-blue-1, #000, 80%),8);  // 1a49ab
+@hc-dark-blue-3:         spin(mix(@hc-blue-1, #000, 90%),4);  // 1d5dc1
+@hc-blue-1:              #2074D6;
+@hc-blue-2:              mix(@hc-blue-1, #fff, 75%);  // 5897e0
+@hc-blue-3:              mix(@hc-blue-1, #fff, 50%);  // 90baeb
+@hc-light-blue-1:        mix(@hc-blue-1, #fff, 30%);  // bcd5f3
+@hc-light-blue-2:        mix(@hc-blue-1, #fff, 20%);  // d2e3f7
+@hc-light-blue-3:        mix(@hc-blue-1, #fff, 10%);  // e9f1fb
+@hc-semi-white-blue:     mix(@hc-blue-1, #fff, 5%);  // f4f8fd
+
+//hc r
+@hc-dark-red-1:          spin(mix(@hc-red-1, #000, 70%),-12);  // 902f4d
+@hc-dark-red-2:          spin(mix(@hc-red-1, #000, 80%),-8);  // a43650
+@hc-dark-red-3:          spin(mix(@hc-red-1, #000, 90%),-4);  // b93c52
+@hc-red-1:               #CD4352;
+@hc-red-2:               mix(@hc-red-1, #fff, 75%);  // da727d
+@hc-red-3:               mix(@hc-red-1, #fff, 50%);  // e6a1a9
+@hc-light-red-1:         mix(@hc-red-1, #fff, 30%);  // f0c7cb
+@hc-light-red-2:         mix(@hc-red-1, #fff, 20%);  // f5d9dc
+@hc-light-red-3:         mix(@hc-red-1, #fff, 10%);  // faecee
+@hc-semi-white-red:      mix(@hc-red-1, #fff, 5%);  // fdf6f6
+
+//hc y
+@hc-dark-yellow-1:       spin(mix(@hc-yellow-1, #000, 70%),-12);  // 7d2c00
+@hc-dark-yellow-2:       spin(mix(@hc-yellow-1, #000, 80%),-8);  // 8f3b00
+@hc-dark-yellow-3:       spin(mix(@hc-yellow-1, #000, 90%),-4);  // a14d00
+@hc-yellow-1:            #B36200;
+@hc-yellow-2:            mix(@hc-yellow-1, #fff, 75%);  // c68940
+@hc-yellow-3:            mix(@hc-yellow-1, #fff, 50%);  // d9b180
+@hc-light-yellow-1:      mix(@hc-yellow-1, #fff, 30%);  // e8d0b3
+@hc-light-yellow-2:      mix(@hc-yellow-1, #fff, 20%);  // f0e0cc
+@hc-light-yellow-3:      mix(@hc-yellow-1, #fff, 10%);  // f7efe6
+@hc-semi-white-yellow:   mix(@hc-yellow-1, #fff, 5%);  // fbf7f2
+
+//hc g
+@hc-dark-green-1:        spin(mix(@hc-green-1, #000, 70%),12);  // 0f5e4b
+@hc-dark-green-2:        spin(mix(@hc-green-1, #000, 80%),8);  // 126b50
+@hc-dark-green-3:        spin(mix(@hc-green-1, #000, 90%),4);  // 147953
+@hc-green-1:             #168655;
+@hc-green-2:             mix(@hc-green-1, #fff, 75%);  // 50a480
+@hc-green-3:             mix(@hc-green-1, #fff, 50%);  // 8bc3aa
+@hc-light-green-1:       mix(@hc-green-1, #fff, 30%);  // b9dbcc
+@hc-light-green-2:       mix(@hc-green-1, #fff, 20%);  // d0e7dd
+@hc-light-green-3:       mix(@hc-green-1, #fff, 10%);  // e8f3ee
+@hc-semi-white-green:    mix(@hc-green-1, #fff, 5%);  // f3f9f7
+
+@font-color-1: @dark-gray-1; //H1 / H2 / H3 / Paragraph / Labels / Secondary buttons / Selected navigation
+@font-color-2: @gray-1; //Secondary text / Tag gray
+@font-color-3: @gray-2; //Links in global header
+@font-color-4: @gray-3; //H4 / Info text / Secondary buttons (disabled) / Labels (disabled)
+
+@border-color-1: @light-gray-1; //Input box
+@border-color-2: @light-gray-2; // Secondary buttons
+@border-color-3: @light-gray-3; // Tables / Tiles
+
+@background-color-1: @dark-gray-1; //Global header
+@background-color-2: @dark-gray-2; //Global header dropdown / Global header search box
+@background-color-3: @dark-gray-3; //Global header search box (hover)
+@background-color-4: @dark-gray-3; //Main body / Secondary button (pressed)
+
+
+
+// Button colors
+// Primary
+
+@primary-btn-bg: @blue-1;
+@primary-btn-color: @white;
+@primary-btn-hover: @dark-blue-3;
+@primary-btn-press: @dark-blue-2;
+@primary-btn-disabled: @blue-1;
+
+//Secondary
+
+@btn-bg: @white;
+@btn-border-color: @border-color-2;
+@btn-color: @dark-gray-1;
+@btn-hover-color: @blue-1;
+@btn-press-color: @light-blue-1;
+@btn-disabled-color: @light-gray-1;
+
+// Delete
+@delete-btn-bg: @red-1;
+@delete-btn-color: @white;
+@delete-btn-hover: @dark-red-3;
+@delete-btn-press: @dark-red-2;
+@delete-btn-disabled: @red-1;
+@header_bg_0:    @background-color-1;
+@header_bg_1:    @background-color-2;
+
+// Sidebar Nav
+@sidebar-text-color: @gray-1;
+@sidebar-text-hover : @blue-1;
+@sidebar-active-bg-color: @dark-gray-1;
+@sidebar-separator-color: @light-gray-2;
+@sidebar-separator-width: 32px;
+
+// Progress bar
+@progress-bar-success-bg-color: @blue-1;
+@progress-bar-warning-bg-color: @yellow-1;
+@progress-bar-danger-bg-color: @red-1;

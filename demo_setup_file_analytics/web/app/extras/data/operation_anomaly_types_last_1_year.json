@@ -1,0 +1,25 @@
+{
+  "entities": [
+    {
+      "doc_count": 300,
+      "key": "Create"
+    },
+    {
+      "doc_count": 51,
+      "key": "Delete"
+    },
+    {
+      "doc_count": 100,
+      "key": "PermissionDenied"
+    },
+    {
+      "doc_count": 90,
+      "key": "SecurityChange"
+    }
+  ],
+  "metadata": {
+    "count": 4,
+    "page": 0,
+    "total": 4
+  }
+}

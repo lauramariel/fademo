@@ -1,0 +1,130 @@
+{
+  "entities": [
+    {
+      "last_event": {
+        "event_date": "2019-10-28T23:47:41Z",
+        "filename": "CitrixOptimizer.log",
+        "id": "f2bd621b-a6a8-44fe-8e20-7ca2c10bd3a4_1905_666795100",
+        "operation": "FileWrite",
+        "parent": "CitrixOptimizer",
+        "share": "Scripts"
+      },
+      "machine_name": "10.46.183.150",
+      "user_name": "kraken\\administrator"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-10-22T17:59:18Z",
+        "filename": "MachineAssociations.json",
+        "id": "7ca91be5-d1b8-4af9-b08e-b050e697760a_14073748835533063_123603500",
+        "operation": "FileRead",
+        "parent": "",
+        "share": "elm_share"
+      },
+      "machine_name": "10.51.26.1",
+      "user_name": "kraken\\mcsuser4"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:57Z",
+        "filename": "rIUMil",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_10133099162749163_253912700",
+        "operation": "SetAttr",
+        "parent": "vMQh8-Z8",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.100",
+      "user_name": "kraken\\kraken_user29"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:56Z",
+        "filename": "-DgK0f7e",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_7881299349355587_250461100",
+        "operation": "FileWrite",
+        "parent": "vlkM1dTYqO",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.101",
+      "user_name": "kraken\\kraken_user4"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:54Z",
+        "filename": "RQEUsxLxT",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_14636698789261825_254476300",
+        "operation": "FileRead",
+        "parent": "5EsmX7UJn",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.103",
+      "user_name": "kraken\\kraken_user42"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:53Z",
+        "filename": "7HIYoSU",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_5629499536266010_247042300",
+        "operation": "FileRead",
+        "parent": "y5o7z",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.106",
+      "user_name": "kraken\\kraken_user17"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:52Z",
+        "filename": "3edxK q",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_4503599627753869_393717900",
+        "operation": "FileRead",
+        "parent": "Wo 22bX",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.107",
+      "user_name": "kraken\\kraken_user83"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:55Z",
+        "filename": "rKhD 7",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_15199648742921621_250668000",
+        "operation": "FileRead",
+        "parent": "x-QczhMK",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.108",
+      "user_name": "kraken\\kraken_user32"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-12-26T00:00:55Z",
+        "filename": "HlwuRYuY6z",
+        "id": "9945daf3-f423-42ae-8fb0-284e827071b5_17451448556608679_252378200",
+        "operation": "FileRead",
+        "parent": "R2EQKZsm",
+        "share": "home"
+      },
+      "machine_name": "10.51.26.109",
+      "user_name": "kraken\\kraken_user14"
+    },
+    {
+      "last_event": {
+        "event_date": "2019-10-22T22:12:34Z",
+        "filename": "",
+        "id": "7ca91be5-d1b8-4af9-b08e-b050e697760a_14073748835532853_145884000",
+        "operation": "FileRead",
+        "parent": "",
+        "share": ""
+      },
+      "machine_name": "10.51.26.11",
+      "user_name": "kraken\\mcsuser10"
+    }
+  ],
+  "metadata": {
+    "count": 10,
+    "next_batch_id": "10.51.26.11",
+    "page": 0,
+    "total": 165
+  }
+}

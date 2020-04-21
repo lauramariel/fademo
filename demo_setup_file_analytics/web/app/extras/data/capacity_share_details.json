@@ -1,0 +1,27 @@
+{
+  "entities": [
+    {
+      "added": 102400000.0,
+      "details": {
+        "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05",
+        "name": "fs-smb-1"
+      },
+      "removed": 102400000.0
+    },
+    {
+      "added": 202400000.0,
+      "details": {
+        "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05",
+        "name": "fs-smb-2"
+      },
+      "removed": 102400000.0
+    }
+  ],
+  "metadata": {
+    "count": 1,
+    "next_page_id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05",
+    "page": 0,
+    "total": 1,
+    "type": "share"
+  }
+}

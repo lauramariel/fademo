@@ -1,0 +1,17 @@
+<div id="<%= id %>" class="n-task-menuitem">
+  <% if(linkClass) { %>
+    <a class="<%= linkClass %>">
+  <% } %>
+      <div class="n-task-message">
+        <span class="n-task-message-text msg_<%= cid %>" title="<%= message %>">
+          <%= message %>
+        </span>
+        <span class="n-percent-text pct_<%= cid %>"></span>
+        <span class="task-progress-loader-wrapper pull-right">
+          <span class="task-progress-loader_<%= cid %>"></span>
+        </span>
+      </div>
+  <% if(linkClass) { %>
+    </a>
+  <% } %>
+</div>

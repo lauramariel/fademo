@@ -1,0 +1,23 @@
+{  
+   "configurations":[  
+      {  
+         "config_id":"5iTvHGsBgDbKQoffPP6v",
+         "detection_interval":1,
+         "minimum_file_operation_count":500,
+         "minimum_file_operation_percentage":100,
+         "operation_name":"Delete",
+         "per_user":false
+      },
+      {  
+         "config_id":"5yRxIWsBgDbKQoff3P6p",
+         "detection_interval":1,
+         "minimum_file_operation_count":1,
+         "minimum_file_operation_percentage":1,
+         "operation_name":"Create",
+         "per_user":false
+      }
+   ],
+   "notification_receiver_list":[  
+
+   ]
+}

@@ -1,0 +1,17 @@
+<select
+  id="<%= id %>"
+  class="select-fancy <%= jsClasses %>"
+  <%= disabled ? "disabled" : "" %>
+  <%= attributes %>
+  >
+  <% _.each(dataOptionsChart,function(option){  %>
+    <option
+      <%= option.selected ? 'selected': '' %>
+      value="<%= option.value %>"
+      class="<%= option.class ? option.class : '' %>"
+      <%= option.disabled ? "disabled" : "" %>
+    >
+      <%= option.name %>
+    </option>
+  <% }); %>
+</select>

@@ -1,0 +1,22 @@
+{
+  "moduleName": "popups",
+  "modules": {
+    "SMTPPopupView": "views/popup/SMTPPopupView",
+    "AlertPopupView": "views/popup/AlertPopup",
+    "PolicyPopupView": "views/popup/PolicyPopupView",
+    "DataRetentionPopupView": "views/popup/DataRetentionPopupView",
+    "CapacityTrendPopupView": "views/popup/CapacityTrendPopupView",
+    "FileTypePopupView": "views/popup/FileTypePopupView",
+    "FileServerEnablePopupView": "views/popup/FileServerEnablePopupView",
+    "TriggerMetaDataPopupView": "views/popup/TriggerMetaDataPopupView",
+    "ActiveUserPopupView" : "views/popup/ActiveUserPopupView",
+    "AccessedFilesPopupView" : "views/popup/AccessedFilesPopupView",
+    "MaliciousActivityPopupView" : "views/popup/MaliciousActivityPopupView",
+    "AnamolyUserPopupView" : "views/popup/AnamolyUserPopupView",
+    "AnamolyFolderPopupView" : "views/popup/AnamolyFolderPopupView",
+    "AboutAFSPopupView": "views/popup/AboutAFSView",
+    "LogCollectorPopupView": "views/popup/LogCollectorPopupView",
+    "FSUpdateFileCategoryPopupView": "views/popup/fileserver/FSUpdateFileCategoryPopupView",
+    "BlacklistRulesPopupView": "views/popup/BlacklistRulesPopupView"
+  }
+}

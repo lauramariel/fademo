@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "count": 124793951,
+      "name": "0_months_older",
+      "actual_size": 22183506083.84,
+      "size": 2574444885123
+    },
+    {
+      "count": 124793950,
+      "name": "3_months_older",
+      "actual_size": 193788924395.52,
+      "size": 2574379349123
+    },
+    {
+      "count": 123998309,
+      "name": "6_months_older",
+      "actual_size": 322627205857.28,
+      "size": 2565276943656
+    },
+    {
+      "count": 122793283,
+      "name": "12_months_older",
+      "actual_size": 2049214796267.52,
+      "size": 2242647239512
+    }
+  ],
+  "metadata": {
+    "count": 4,
+    "page": 0,
+    "total": 4
+  }
+}

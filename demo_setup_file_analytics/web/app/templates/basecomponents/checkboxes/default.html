@@ -1,0 +1,26 @@
+<div class="n-checkbox-container">
+  <input type="checkbox"
+         id="<%= id %>"
+         class="n-checkbox n-preserve-style -<%= type %> <%= partialCheck ? 'partial-check' : '' %> <%= jsClasses %>"
+         name="<%= name %>"
+  <% if(stringParams){ %>
+    <%= stringParams %>
+  <% } else { %>
+    value="<%= value %>"
+    <%= checked ? "checked" : "" %>
+    <%= disabled ? "disabled" : "" %>
+    <%= attributes %>
+  <% } %>
+  />
+  <label for="<%= id %>"
+         class="<%= typeClasses %> <%= classes %> <%= variants %>"
+         <%= dataTestAttribute %>>
+    <%= iconTmpl %>
+  </label>
+
+  <% if (labelText) { %>
+    <label for="<%= id %>" data-ntnx-inline-label>
+      <%= labelText %>
+    </label>
+  <% } %>
+</div>

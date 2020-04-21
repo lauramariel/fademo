@@ -1,0 +1,32 @@
+<% if (useBrowserSelect) { %>
+<div class="select-wrapper">
+<% } %>
+  <select
+    id="<%= id %>"
+    class="<%= jsClasses %> <%= useBrowserSelect ? 'browser-select' : '' %>"
+    data-class="<%= variants %> <%= classes %>"
+    <%= disabled ? 'disabled' : '' %>
+    <%= attributes %>
+    >
+    <% _.each(options,function(option){  %>
+      <option
+        <%= option.selected ? 'selected': '' %>
+        value="<%- option.value %>"
+        class="<%= option.class ? option.class : '' %>"
+        <%= option.disabled ? "disabled" : "" %>
+      >
+        <%- option.name %>
+      </option>
+    <% }); %>
+  </select>
+<% if (useBrowserSelect) { %>
+</div>
+<% }
+  // Run setTimeout to turn this into a fancySelect on
+  // next JS loop frame.
+  if (!useBrowserSelect) {
+    setTimeout(function(){
+      $('#' + id).fancySelect();
+    }, 0);
+  }
+%>

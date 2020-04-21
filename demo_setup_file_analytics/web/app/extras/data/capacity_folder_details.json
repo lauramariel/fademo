@@ -1,0 +1,20 @@
+{
+  "entities": [
+    {
+      "added": 102400000.0,
+      "details": {
+        "id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05",
+        "name": "/",
+        "share": "fs-smb-1"
+      },
+      "removed": 0.0
+    }
+  ],
+  "metadata": {
+    "count": 1,
+    "next_page_id": "4b497459-33d5-4cba-b0d5-a39bdb82ef05",
+    "page": 0,
+    "total": 1,
+    "type": "folder"
+  }
+}

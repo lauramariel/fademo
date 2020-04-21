@@ -1,0 +1,17 @@
+<form id="fileserverEnablePopupForm">
+	<section data-ntnx-section class="dataRetentionContainer">
+    <label data-ntnx-label>
+      Data Retention
+      <span class="nutanixMoreInfo"
+        data-tooltip-classes="-nudge-up"
+        data-tooltip-container="body"
+        data-tooltip-title="<%= dataRetentionTooltip %>">
+      </span>
+    </label>
+    <%= Components.select({
+      jsClasses: 'dataRetentionOptions',
+      useBrowserSelect: true,
+      options: dataRetentionOptions
+    }) %>
+  </section>
+</form>

@@ -1,0 +1,47 @@
+<div class = "n-spotlight n-spotlight-btn">
+  <div class="n-spotlight-control n-nav-toggle n-spotlight-active active">
+    <form class="form-inline file-search-form col-md-offset-3 col-md-6">
+      <div class="text-center searchRadioBtn" style="margin-bottom: 10px;">
+        <b><span class="file-radio"><%= Components.radio({
+          labelText: 'Files',
+          checked: 'checked',
+          jsClasses: 'searchFileInput searchCategory',
+          value: 'files'
+        }) %></span>
+        <span class="folder-radio search-radio"><%= Components.radio({
+          labelText: 'Folders',
+          jsClasses: 'searchFolderInput searchCategory',
+          value: 'folders'
+        }) %></span>
+        <span class="user-radio search-radio"><%= Components.radio({
+          labelText: 'Users',
+          jsClasses: 'searchUserInput searchCategory',
+          value: 'users'
+        }) %></span>
+        <span class="ip-radio search-radio"><%= Components.radio({
+          labelText: 'Client IP',
+          jsClasses: 'searchIpInput searchCategory',
+          value: 'ips'
+        }) %></span></b>
+      </div>
+      <section data-ntnx-section="type-form-elements-inline">
+        <div class="search-input">
+          <i aria-hidden="true" data-icon="B" class="n-icon-search"></i>
+          <input type="text" class="form-control col-xs-10"
+            id="fileSearch"
+            placeholder="Enter the file name" autocomplete="off">
+        </div>
+        <button type="post" class="btn n-primary-btn fileSearchBtn">
+          Search
+        </button>
+      </section>
+      <div class="text-center search-notification">
+      <!-- Search for files, users, folders and client IP to view their audit trails -->
+      Search for files, users and folders to view their audit trails
+      </div>
+    </form>
+  </div>
+</div>
+<div class="row file-search-results-container">
+  <div class="col-xs-12 file-search-results"></div>
+</div>

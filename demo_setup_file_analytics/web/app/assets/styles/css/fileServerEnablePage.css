@@ -1,0 +1,26 @@
+.page-file_server_enable .alert-error {
+  color: #cc6164 !important;
+  background-color: #f7e6e7;
+}
+.page-file_server_enable .alert-error .close {
+	font-size: 8px;
+}
+.page-file_server_enable .enable-heading h2 {
+	font-weight: normal;
+}
+.page-file_server_enable .statusProgress {
+	height: 40px;
+}
+.page-file_server_enable .statusProgress .progressbar__label {
+	margin: 10px 15px;
+}
+.page-file_server_enable .notificationBar h4 {
+	text-align: center;
+}
+.page-file_server_enable [data-ntnx-label] > .nutanixMoreInfo > .more-info {
+  padding: 0 2px 0 3px;
+}
+.page-file_server_enable [data-ntnx-label] > .nutanixMoreInfo > .more-info svg {
+  width: 10px;
+  height: 10px;
+}

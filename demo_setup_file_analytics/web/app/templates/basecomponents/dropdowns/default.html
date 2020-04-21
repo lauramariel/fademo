@@ -1,0 +1,34 @@
+<div class="dropdown <%= classes %> <%= variants %>"
+<%= attributes %>>
+<button class="btn btn-default dropdown-toggle" type="button" id="<%= id %>" data-toggle="dropdown">
+  <span class="text"><%= text %></span>
+  <%= Components.icon('z', '-down-arrow') %>
+</button>
+<ul class="dropdown-menu <%= rightAlign ? 'dropdown-menu-right' : '' %>" role="menu" aria-labelledby="<%= id %>">
+  <% // If options were passed as nested arrays of option sets %>
+  <% if (options.length > 0 && Array.isArray(options[0])) { %>
+  <% _.each(options, function(optionArray){  %>
+  <% _.each(optionArray,function(option){  %>
+  <li>
+    <a role="menuitem" tabindex="-1" class="<%= option.class %>" <%= option.attributes %>>
+    <%= option.name %>
+    </a>
+  </li>
+  <% }); %>
+  <% if(options.length > 1){ %>
+  <li class="divider"></li>
+  <% }  %>
+  <% }); %>
+
+  <% // If options were passed as a flat array %>
+  <% } else if (options.length > 0 && typeof options[0] === "object") { %>
+  <% _.each(options, function(option){  %>
+  <li>
+    <a tabindex="-1" class="<%= option.class %>" <%= option.attributes %>>
+    <%= option.name %>
+    </a>
+  </li>
+  <% }); %>
+  <% } %>
+</ul>
+</div>

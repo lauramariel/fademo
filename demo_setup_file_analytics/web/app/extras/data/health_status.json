@@ -1,0 +1,65 @@
+{
+  "file_analytics_elastic_search_stats": {
+    "description_of_status": "All services are running as expected.",
+    "elastic_search_cluster_status": "green",
+    "elastic_search_container_percent_available_memory_with_cache": 45.15082836151123,
+    "elastic_search_container_percent_available_memory_without_cache": 45.19665241241455,
+    "elastic_search_container_percent_cpu_usage": 0.03144645962732919,
+    "elastic_search_container_status": "running",
+    "elastic_search_nodes_status": {
+      "es_node_available_disk_in_percent": 94.0,
+      "es_node_cpu_usage_in_percent": 0,
+      "es_node_ip": "172.28.5.1",
+      "es_node_jvm_heap_memory_usage": 5,
+      "es_node_number_of_open_http_connections": 35
+    }
+  },
+  "file_analytics_gateway_container_stats": {
+    "description_of_status": "All services are running as expected.",
+    "file_analytics_gateway_container_health": "green",
+    "file_analytics_gateway_container_percent_available_memory_with_cache": 95.95870633318222,
+    "file_analytics_gateway_container_percent_available_memory_without_cache": 98.58734081320479,
+    "file_analytics_gateway_container_percent_cpu_usage": 0.30669593283582086,
+    "file_analytics_gateway_container_services_status": {
+      "analytics_gateway": "running",
+      "analytics_ui": "running",
+      "anomalies_detection": "running",
+      "crond": "running",
+      "event_processor": "running"
+    },
+    "file_analytics_gateway_container_status": "running"
+  },
+  "file_analytics_health": "green",
+  "file_analytics_host_stats": {
+    "description_of_status": "All services are running as expected.",
+    "file_analytics_disk_used": 4378931200,
+    "file_analytics_docker_service_status": "running",
+    "file_analytics_memory_used": 17478881280,
+    "file_analytics_percent_available_memory": 48.8,
+    "file_analytics_percent_cpu_usage": 0.5,
+    "file_analytics_percent_disk_usage": 6.9,
+    "file_analytics_percent_volume_group_usage": 0.1,
+    "file_analytics_total_disk": 63269863424,
+    "file_analytics_total_memory": 25109057536,
+    "file_analytics_total_volume_group_size": 3246642339840,
+    "file_analytics_vm_host_health": "green",
+    "file_analytics_volume_group_used": 3223851008
+  },
+  "file_analytics_kafka_stats": {
+    "description_of_status": "All services are running as expected.",
+    "file_analytics_kafka_container_health": "green",
+    "kafka_container_available_memory_with_cache_percentage": 91.08400606119827,
+    "kafka_container_available_memory_without_cache_percentage": 91.12472290604735,
+    "kafka_container_cpu_usgae_percentage": 0.07895140198511166,
+    "kafka_container_status": "running",
+    "kafka_containers_services": {
+      "kafka": "running",
+      "zookeeper": "running"
+    }
+  },
+  "file_analytics_total_number_of_events": 503,
+  "file_analytics_total_number_of_files": 72,
+  "file_analytics_total_number_of_folders": 5,
+  "file_analytics_total_number_of_users": 1,
+  "last_updated_at": 1580195771.526821
+}

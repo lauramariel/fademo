@@ -1,0 +1,26 @@
+<!-- Default Structure for Tabs in Popups -->
+<%
+  _.each( tabs, function(tab) {
+%>
+  <li
+    class="<%= tab.isActive ? 'active' : '' %>"
+  >
+    <button
+      class="tab <%= tab.extraClasses %>"
+      role="tab"
+      <%
+        if (tab.extraAttr) {
+          for (var attr in tab.extraAttr) {
+      %>
+        <%= tab.extraAttr[attr].key %>=<%= tab.extraAttr[attr].value %>
+      <%
+          }
+        }
+      %>
+    >
+      <%= tab.text %>
+    </button>
+  </li>
+<%
+  });
+%>

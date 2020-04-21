@@ -1,0 +1,79 @@
+{
+  "entities":[
+    {
+      "id":"b748ff8a-0809-4ef8-8380-448321fd632b_6681_7191100",
+      "is_active":true,
+      "log_count":28,
+      "name":"SP-Jedi-Audition.pdf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"b748ff8a-0809-4ef8-8380-448321fd632b_6814_7200000",
+      "is_active":true,
+      "log_count":28,
+      "name":"SP-Document.pdf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"b748ff8a-0809-4ef8-8380-448321fd632b_6816_7206200",
+      "is_active":true,
+      "log_count":27,
+      "name":"SP-Report.pdf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"b748ff8a-0809-4ef8-8380-448321fd632b_131_1734000",
+      "is_active":true,
+      "log_count":25,
+      "name":"Employee-FAQ.pdf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"b748ff8a-0809-4ef8-8380-448321fd632b_6683_7202900",
+      "is_active":true,
+      "log_count":24,
+      "name":"World-Domination-Plan.pdf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"73089659-b662-47ae-a7b8-b3950a742bcd_3133_387300",
+      "is_active":true,
+      "log_count":23,
+      "name":"Backups_110V44TV.bkf",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"73089659-b662-47ae-a7b8-b3950a742bcd_3208_386200",
+      "is_active":true,
+      "log_count":21,
+      "name":"Archives_8R6T1B1.zip",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"73089659-b662-47ae-a7b8-b3950a742bcd_2998_387000",
+      "is_active":true,
+      "log_count":21,
+      "name":"System_Files_10DEZ1MB.dll",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"73089659-b662-47ae-a7b8-b3950a742bcd_2809_382000",
+      "is_active":true,
+      "log_count":20,
+      "name":"Log_Files_132J9UB.log",
+      "path": "smb-fs/smb_share1/folder_1/"
+    },
+    {
+      "id":"73089659-b662-47ae-a7b8-b3950a742bcd_2934_384200",
+      "is_active":true,
+      "log_count":20,
+      "name":"Lotus_Notes_3GBZB7K.ns2",
+      "path": "smb-fs/smb_share1/folder_1/"
+    }
+  ],
+  "metadata":{
+    "count":10,
+    "page":0,
+    "total":238
+  }
+}

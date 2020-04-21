@@ -1,0 +1,46 @@
+<!-- The parent div modal is #popupUser -->
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">
+    <i data-icon="K" aria-hidden="true"></i>
+  </button>
+  <h4 class="n-title"><%= wizardConfiguration.title %></h4>
+</div>
+
+<div class="n-modal-wrapper">
+  <div class="n-modal-body">
+    <div class="n-modal-content-wrapper">
+      <div class="wizard-page-header">
+        <ul class="modal-nav">
+          <% _.each(wizardConfiguration.pages, function(page, idx) { %>
+            <li class="wizard-step" id="title-<%=page.id%>"
+                data-index="<%= idx %>">
+              <span class="custom-title" page-id="<%=page.id%>"></span>
+              <%= page.title %>
+            </li>
+          <% }) %>
+        </ul>
+      </div>
+      <div class="n-modal-alert-header">
+        <!-- @view: alerts go here... -->
+      </div>
+      <div class="wizard-page-container">
+      </div>
+    </div>
+  </div>
+
+  <div class="n-modal-footer">
+    <button class="bttnPrevious btn pull-left">
+      Previous
+    </button>
+    <button class="btnCancel btn">
+      Close
+    </button>
+    <button class="bttnNext btn btn-primary">
+      Next
+    </button>
+    <button class="btnSave btn btn-primary">
+      Save
+    </button>
+
+  </div>
+</div>

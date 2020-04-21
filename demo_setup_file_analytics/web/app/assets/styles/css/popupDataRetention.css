@@ -1,0 +1,21 @@
+#dataRentionPopupView {
+	width: 500px;
+}
+#dataRentionPopupView .n-modal-content-wrapper {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.retentionPeriod {
+	height: 32px;
+  padding: 0 26px 0 10px;
+  border: 1px solid #b8bfca;
+  color: #22272e;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#dataRentionPopupView .n-modal-alert-header .alert{
+  margin: 0;
+}

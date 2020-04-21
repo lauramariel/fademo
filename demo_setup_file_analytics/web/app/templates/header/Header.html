@@ -1,0 +1,214 @@
+<div id="n-header" class="header">
+  <div class="navbar navbar-fixed-top">
+
+    <!-- Header: First Level
+    ================================================== -->
+    <div class="n-header-level-1">
+    <!-- Header: Left-Side
+    ================================================== -->
+
+      <div class="n-navigation -show">
+
+        <!--  File Analytics
+        ================================================== -->
+
+        <div class="n-multi-nav-bar">
+          <ul class="n-multicluster-btn n-top-menu">
+            <li>
+              <a class="n-nav-toggle n-main-menu-link file-analytics-title">
+                <span class="n-multicluster-name n-head-name">
+                  File Analytics
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <!--  Intra-file-analytics navigation
+        ================================================== -->
+
+        <div class="n-nav-bar">
+          <ul class="n-main-menu-btn n-top-menu db-label">
+            <li>
+              <a>
+                <span class="n-nav-label selected-dashboard">
+                  Dashboard
+                </span>
+             </a>
+           </li>
+          </ul>
+        </div>
+
+        <div class="pipe-separator"></div>
+
+        <!-- Search
+        ================================================== -->
+
+        <div class="n-header-items auditTrail n-nav-toggle \
+          n-main-menu-link">
+          <a>
+            <span class="n-nav-label">Audit Trails</span>
+          </a>
+        </div>
+
+        <div class="pipe-separator"></div>
+
+        <!-- Anomalies
+        ================================================== -->
+        <div class="n-header-items usageAnomalies n-nav-toggle \
+          n-main-menu-link">
+          <a>
+            <span class="n-nav-label">Anomalies</span>
+          </a>
+        </div>
+
+        <div class="pipe-separator"></div>
+
+        <!-- Tasks
+        ================================================== -->
+        <div class="n-header-tasks n-nav-toggle">
+          <ul>
+            <li class="btn-group pull-left">
+              <div class="n-task-wrapper">
+                <div class="radial percent0" data-class="0">
+                  <b><i></i></b><b><i></i></b>
+                </div>
+                <button id="taskDotFailed" class="n-task-dot-failed hide">
+                </button>
+                <a class="task-dropdown-icon">
+                  <%= SVG.SVGIcon("z") %>
+                </a>
+              </div>
+              <div class="n-tasks-dropdown hide n-nav-toggle">
+                <div class="antiscroll-wrap n-task-antiscroll">
+                  <div class="box-wrap" >
+                    <div class="antiscroll-inner" >
+                      <div class="box-inner  n-content-inner" >
+                        <ul class="n-task-menu" ></ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="pipe-separator"></div>
+
+        <!-- Logo
+        ================================================== -->
+        <div class="n-header-logo">
+          <a class="n-logo-link">
+            <%= SVG.nutanixNLogo %>
+          </a>
+        </div>
+
+        <!-- Header: Right-Side
+        ================================================== -->
+
+         <!-- Header: User-icon
+        ================================================== -->
+        <div class="n-nav-bar pull-right">
+          <ul class="n-main-menu-btn right-menu n-top-menu">
+            <li class="n-user n-user-btn">
+              <a>
+                <%= SVG.SVGIcon("A", "user-icon") %>
+                <span class="n-username"><%= userName %></span>
+                <%= SVG.SVGIcon("z", "-down-arrow settings-arrow") %>
+              </a>
+              <ul class="n-user-menu n-main-menu n-nav-menu n-nav-toggle">
+                <li>
+                  <ul class="n-nav-col col1">
+                    <li class="n-nav-menu-item">
+                      <a class="aboutAfs">About File Analytics</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="collectLogBundle">Collect Logs</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
+        <div class="pipe-separator pull-right"></div>
+
+        <!-- File Analytics Health
+        ================================================== -->
+
+        <div class="n-header-cluster-health n-nav-toggle n-main-menu-link \
+          healthMonitoring pull-right">
+          <%= SVG.SVGIcon("I", "n-health-icon") %>
+        </div>
+
+        <div class="pipe-separator pull-right"></div>
+
+         <!-- Settings Dropdown
+        ================================================== -->
+        <div class="n-nav-bar pull-right settingsOptionContainer">
+          <ul class="n-main-menu-btn right-menu n-top-menu">
+            <li class="n-settings n-settings-btn">
+              <a>
+                <%= SVG.SVGIcon("C", "gear-icon") %>
+                <%= SVG.SVGIcon("z", "-down-arrow settings-arrow") %>
+              </a>
+              <ul class="n-settings-menu n-main-menu n-nav-menu n-nav-toggle">
+                <li>
+                  <ul class="n-nav-col col1">
+                    <li class="n-nav-menu-item">
+                      <a class="email-config">Define Anomaly Rules</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="blacklistRules">Define Blacklisting Rules</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="disableFs">Disable File Analytics</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="reTriggerMData">Scan File System</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="policy-alert">SMTP Configuration</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="updateAdLdap">Update AD/LDAP Configuration</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="data-retention">Update Data Retention</a>
+                    </li>
+                    <li class="n-nav-menu-item">
+                      <a class="fileCategory">Update File Category</a>
+                    </li>
+                  </ul>
+               </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
+        <!-- File Server Dropdown
+        ================================================== -->
+        <div class ="n-nav-bar pull-right">
+          <ul class="n-main-menu-btn n-top-menu file-server-dropdown">
+          <!-- File server list goes here -->
+          </ul>
+        </div>
+
+        <!-- File Analytics Disable Tag
+        ================================================== -->
+        <div class="n-header-cluster-health pull-right n-disable-tag disableTag"
+          style="display: none;">
+          <a>
+            <span class="n-nav-label new-tag -red-confirm"
+              title="File Analytics is disabled for this file server">
+              Analytics Disabled</span>
+          </a>
+        </div>
+
+     </div>
+   </div>
+
+ </div>
+</div>

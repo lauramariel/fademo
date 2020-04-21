@@ -1,0 +1,27 @@
+{  
+   "entities":[  
+      {  
+         "creation_date":"2019-06-01T11:47:18Z",
+         "data_retention_months":12,
+         "directory_services":{  
+            "ad":{  
+               "domain":"child2.afs.minerva.com",
+               "protocol_type":"SMB",
+               "rfc2307_enabled":false,
+               "username":"child2\\administrator"
+            }
+         },
+         "dns_domain_name":"child2.afs.minerva.com",
+         "fileserver_name":"Fileserver-1",
+         "fileserver_uuid":"7290b9eb-9235-4331-9730-74c6151d9bb3",
+         "is_analytics_active":true,
+         "is_fileserver_active":true,
+         "updation_date":"2019-06-04T07:44:03.643966"
+      }
+   ],
+   "metadata":{  
+      "count":1,
+      "page":0,
+      "total":1
+   }
+}

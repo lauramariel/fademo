@@ -1,0 +1,174 @@
+{
+  "entities": [
+    {
+      "metric": "FileCreate",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1558243137429.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1558636200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559068200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559500200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559932200000.0
+        },
+        {
+          "count": 623,
+          "epoch_time": 1560364200000.0
+        },
+        {
+          "count": 240,
+          "epoch_time": 1560796200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileRead",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1558243137429.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1558636200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559068200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559500200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559932200000.0
+        },
+        {
+          "count": 280,
+          "epoch_time": 1560364200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560796200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileWrite",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1558243137429.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1558636200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559068200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559500200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559932200000.0
+        },
+        {
+          "count": 9060,
+          "epoch_time": 1560364200000.0
+        },
+        {
+          "count": 3360,
+          "epoch_time": 1560796200000.0
+        }
+      ]
+    },
+    {
+      "metric": "FileDelete",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1558243137429.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1558636200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559068200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559500200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559932200000.0
+        },
+        {
+          "count": 120,
+          "epoch_time": 1560364200000.0
+        },
+        {
+          "count": 120,
+          "epoch_time": 1560796200000.0
+        }
+      ]
+    },
+    {
+      "metric": "SecurityChange",
+      "values": [
+        {
+          "count": 0,
+          "epoch_time": 1558243137429.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1558636200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559068200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559500200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1559932200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560364200000.0
+        },
+        {
+          "count": 0,
+          "epoch_time": 1560796200000.0
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "count": 5,
+    "page": 0,
+    "total": 5
+  }
+}

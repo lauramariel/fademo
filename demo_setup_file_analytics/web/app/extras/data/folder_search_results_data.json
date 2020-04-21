@@ -1,0 +1,23 @@
+{  
+   "entities":[  
+      {  
+         "id":"33eeff8f-b529-470b-a6ee-2c5318f42f74_78295_59289200",
+         "is_active":true,
+         "last_event":{  
+            "modified_date":"2019-06-17T07:04:04Z",
+            "operation":"SetAttr",
+            "username":"NA"
+         },
+         "name":"folder12",
+         "object_lineage_root":"33eeff8f-b529-470b-a6ee-2c5318f42f74_78295_59289200",
+         "owner":"administrator",
+         "parent":"node_modules",
+         "share":"share-3"
+      }
+   ],
+   "metadata":{  
+      "count":1,
+      "page":0,
+      "total":1
+   }
+}

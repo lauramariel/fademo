@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "count": 0,
+      "name": "Rename"
+    },
+    {
+      "count": 0,
+      "name": "FileDelete"
+    },
+    {
+      "count": 0,
+      "name": "FileRead"
+    },
+    {
+      "count": 13,
+      "name": "SetAttr"
+    },
+    {
+      "count": 0,
+      "name": "SecurityChange"
+    },
+    {
+      "count": 1,
+      "name": "FileCreate"
+    },
+    {
+      "count": 14,
+      "name": "FileWrite"
+    },
+    {
+      "count": 0,
+      "name": "Symlink"
+    },
+    {
+      "count": 0,
+      "name": "PermissionDenied"
+    }
+  ],
+  "metadata": {
+    "count": 8,
+    "page": 0,
+    "total": 8
+  }
+}

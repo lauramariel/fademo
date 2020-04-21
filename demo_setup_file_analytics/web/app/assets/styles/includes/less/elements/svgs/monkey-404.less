@@ -1,0 +1,371 @@
+#monkey_404 {
+  @keyframes levitate-inner {
+    0% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(0, 5px) scale(1); }
+    100% { transform: translate(0, 0) scale(1); }
+  }
+
+  @keyframes levitate {
+    0% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(0, 10px) scale(1); }
+    100% { transform: translate(0, 0) scale(1); }
+  }
+
+  @keyframes face-rotate {
+    0%,
+    2% { transform: rotateZ(0deg); }
+
+    4% { transform: rotateZ(-1deg); }
+
+    6%,
+    8% { transform: rotateZ(0deg); }
+
+    10% { transform: rotateZ(-1deg); }
+
+    12%,
+    14% { transform: rotateZ(0deg); }
+
+    16% { transform: rotateZ(-1deg); }
+
+    18%,
+    28% { transform: rotateZ(0deg); }
+
+    60% { transform: rotateZ(-1deg); }
+
+    32%,
+    100% { transform: rotateZ(0deg); }
+  }
+
+  @keyframes blink-l {
+    0%,
+    2% { transform: rotateX(0deg); }
+
+    4% { transform: rotateX(80deg); }
+
+    6%,
+    8% { transform: rotateX(40deg); }
+
+    10% { transform: rotateX(80deg); }
+
+    12%,
+    14% { transform: rotateX(40deg); }
+
+    16% { transform: rotateX(80deg); }
+
+    18%,
+    28% { transform: rotateX(0deg); }
+
+    30% { transform: rotateX(80deg); }
+
+    32%,
+    100% { transform: rotateX(0deg); }
+  }
+
+  @keyframes blink-r {
+    0%,
+    28% { transform: rotateX(0deg); }
+
+    30% { transform: rotateX(80deg); }
+
+    32%,
+    100% { transform: rotateX(0deg); }
+  }
+
+  @keyframes sword {
+    0%,
+    5% { transform: rotate(-40deg); }
+
+    67%,
+    95% { transform: rotate(50deg); }
+
+    100% { transform: rotate(-40deg); }
+  }
+
+  @keyframes sword2 {
+    0%,
+    5% { transform: rotate(-40deg) translate(3px, 19px); }
+
+    67%,
+    95% { transform: rotate(50deg) translate(3px, 19px); }
+
+    100% { transform: rotate(-40deg) translate(3px, 19px); }
+  }
+
+  @keyframes twinkle {
+    0% { transform: rotateZ(0deg); }
+    100% { transform: rotateZ(360deg); }
+  }
+
+  @shade_0: @white_1;
+  @shade_1: @dark_9;
+  @shade_2: @dark_5;
+  @shade_3: @black_1;
+
+  .size(800, 480);
+
+  .st0 {
+    fill: @shade_1;
+  }
+
+  .st1 {
+    fill: @shade_0;
+  }
+
+  .st2 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st3 {
+    fill: @shade_1;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st4 {
+    fill: @shade_0;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st5 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st6 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-width: 4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st7 {
+    fill: @shade_0;
+    stroke: @shade_2;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st8 {
+    fill: @shade_2;
+  }
+
+  .st9 {
+    fill: @shade_2;
+  }
+
+  .st10 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st11 {
+    fill: @shade_0;
+  }
+
+  .st12 {
+    fill: @shade_0;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st13 {
+    fill: @shade_0;
+    stroke: @shade_2;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st14 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st15 {
+    fill: none;
+    stroke: @shade_2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st_shadow_inner {
+    fill: @shade_3;
+    stroke: @shade_3;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st_shadow {
+    fill: none;
+    stroke: @shade_3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st_shadow_dots {
+    fill: @shade_3;
+  }
+
+  .st_sword_shadow {
+    fill: @shade_0;
+  }
+
+  // Center elements - less depth/movement
+  #number_4,
+  #number_4_2,
+  #number_0,
+  #number_0_shadow_path {
+    animation: levitate-inner 3s infinite ease-in-out;
+  }
+
+  // Outer elements - more depth/movement
+  #zelda,
+  #tetris,
+  #moon,
+  #star_a,
+  #star_b,
+  #star_c,
+  #star_d,
+  #sword_group {
+    animation: levitate 3s infinite ease-in-out;
+  }
+
+  #number_4 {
+    animation-delay: 0;
+    animation-duration: 3s;
+  }
+
+  #number_0,
+  #number_0_shadow_path {
+    animation-delay: 0.5s;
+    animation-duration: 3s;
+  }
+
+  #number_0-shadow {
+    opacity: 0.1;
+    mask: url(#mask1);
+
+    // Override for FF & IE
+    html.ff &,
+    html.ie & {
+      opacity: 0;
+    }
+  }
+
+  #number_4_2 {
+    animation-delay: 1s;
+    animation-duration: 3s;
+  }
+
+  // Monkey Properties
+  #face_group,
+  #face_border,
+  #face_border_2 {
+    transform-origin: 220px 275px;
+    animation: face-rotate 6s infinite ease-in-out;
+  }
+
+  #eye_left {
+    transform-origin: 191px 257px;
+    animation: blink-l 6s infinite ease-in-out;
+  }
+
+  #eye_right {
+    transform-origin: 205px 256px;
+    animation: blink-r 6s infinite ease-in-out;
+  }
+
+  #arm {
+    transform-origin: 155px 292px;
+    transform: rotateZ(-2deg);
+  }
+
+  #star_a,
+  #star_b,
+  #star_c,
+  #star_d {
+    animation: twinkle 8s infinite linear;
+  }
+
+  #star_a {
+    transform-origin: 643px 338px;
+  }
+
+  #star_b {
+    transform-origin: 489px 82px;
+  }
+
+  #star_c {
+    transform-origin: 316px 344px;
+  }
+
+  #star_d {
+    transform-origin: 126px 182px;
+  }
+
+  #zelda {
+    animation-delay: 0;
+    animation-duration: 3s;
+  }
+
+  #tetris {
+    animation-delay: 1s;
+    animation-duration: 3s;
+  }
+
+  #moon {
+    animation-delay: 0.5s;
+    animation-duration: 3s;
+  }
+
+  #sword_group {
+    animation-delay: 1.5s;
+    animation-duration: 3s;
+  }
+
+  #sword {
+    transform-origin: 458px 206px;
+    animation: sword 8s infinite ease-out;
+  }
+
+  #sword-shadow {
+    transform: translate(3px, 25px);
+    transform-origin: 458px 206px;
+    animation: sword2 8s infinite ease-out;
+  }
+}

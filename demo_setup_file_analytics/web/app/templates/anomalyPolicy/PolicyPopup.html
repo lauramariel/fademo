@@ -1,0 +1,37 @@
+<form id="policyPopupForm">
+  <section data-ntnx-section="type-text" class="policy-head">
+      Setup your anomaly policies and anomaly email recipients for fileserver
+      <b>"<%= fsName %>"</b> here.
+  </section>
+
+  <div class="anomalyEmailRecipients">
+    <section data-ntnx-section>
+      <h5 data-ntnx-title="">Anomaly Email Recipients</h5>
+    </section>
+    <section data-ntnx-section="type-text">
+      <span>
+        Add one or more comma separated email addresses if you want to receive
+        email alerts.
+      </span>
+      <a data-ntnx-label-flag="" class="configureSmtpOption pull-right">
+          Configure SMTP to add recipients
+      </a>
+    </section>
+    <section data-ntnx-section>
+      <input type="text" autocomplete="off" class="emailContacts"
+        name="emailContacts">
+    </section>
+  </div>
+
+  <section data-ntnx-section="type-separator">
+    <div class="table-wrapper">
+    </div>
+    <div class="no-table-wrapper">
+      <div class="n-clearfix">
+        <span class="btn btnAnomalyAdd btn-primary">
+          Define Anomaly Rules
+        </span>
+      </div>
+    </div>
+  </section>
+</form>

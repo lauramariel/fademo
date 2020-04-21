@@ -1,0 +1,85 @@
+
+<div class="filter-wrapper pull-left">
+  <div class="graph-top pull-left">
+    <ul class="date-range-filter">
+      <li class="disable-layer" style="display: none"></li>
+      <li class="filter start-date-filter">
+        <label class="n-label-text">
+          <span>From</span>
+        </label>
+        <input
+          type="text"
+          class="n-int-input-start n-input datepicker date"
+        >
+      </li>
+      <li class="filter end-date-filter">
+        <label class="n-label-text">
+          <span>To</span>
+        </label>
+        <input
+          type="text"
+          class="n-int-input-end n-input datepicker date"
+        >
+      </li>
+      <button type="button" class="btnDateFilter btn n-primary-btn pull-right">
+        Apply
+      </button>
+    </ul>
+  </div>
+  <div class="pull-right resetBtn">
+    <button class="btn n-secondary-btn" type="button" id="reset_filter" >
+      <span class="text">Reset Filters</span>
+    </button>
+  </div>
+</div>
+
+<div class="n-clearfix"></div>
+
+<div class="op-filter">
+  <div class="dropdown operations-dropdown">
+    <button class="btn btn-default
+      <% if(operations.length < 1) { %> disabled <% } %>"
+      type="button" id="audit_operatoin_filter" >
+      <span class="text">Filter by operations  <%= dropdown %></span>
+    </button>
+    <ul class="dropdown-menu" id="audit_operatoin_filter_options">
+      <input type="text" placeholder="Search.." id="searchInput">
+      <li>
+        <label>
+          <%= Components.checkbox({
+            id : "selectAllOperations",
+            jsClasses : "",
+            name : "selectAll",
+            labelText : "Select All",
+            value : 0
+          }) %>
+        </label>
+      </li>
+      <% _.each(operations, function(operation) { %>
+      <li>
+        <label class="operations">
+          <%= Components.checkbox({
+            id : operation[0] + "id",
+            jsClasses : "operation_chk",
+            name : operation[0],
+            labelText : operation[1],
+            value : operation[1]
+          }) %>
+        </label>
+      </li>
+      <%
+        });
+      %>
+      <% if(!operations.length < 1) { %>
+      <div class="button-wrapper" id="sticky-btn">
+        <span class="btnDropdownCancel btn n-secondary-btn">Cancel</span>
+        <span class="btnDropdownOk btn n-primary-btn pull-right">OK</span>
+      </div>
+      <% } %>
+    </ul>
+  </div>
+  <div class="query-bar-wrapper">
+    <div class="query-bar" data-test="eb-query-bar"></div>
+    <div class="favorite-queries hidden"></div>
+  </div>
+</div>

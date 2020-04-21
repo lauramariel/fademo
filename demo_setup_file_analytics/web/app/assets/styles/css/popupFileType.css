@@ -1,0 +1,48 @@
+#fileTypePopupView .n-modal-wrapper{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 55px;
+  width: 100%;
+}
+#fileTypePopupView {
+  height: 100%;
+  position: absolute !important;
+}
+#fileTypePopupView .n-modal-content{
+  width: auto;
+}
+#fileTypePopupView .graphWrapper,
+#fileTypePopupView .tableWrapper {
+  margin: 10px 20px;
+}
+#fileTypePopupView .graphWrapper .nvtooltip table {
+  border: none;
+}
+#fileTypePopupView .graphWrapper .legend-wrap {
+  border: 1px solid #f2f4f6;
+  border-radius: 4px;
+  padding: 5px 0;
+  min-height: 22px;
+}
+#fileTypePopupView .graphWrapper .n-chart {
+  margin-bottom: 0;
+  min-height: 200px;
+}
+#fileTypePopupView .n-modal-wrapper .n-modal-body,
+#fileTypePopupView .n-modal-content {
+  max-height: none;
+  height: 100%;
+}
+#fileTypePopupView .nvtooltip {
+  max-width: inherit;
+}
+#fileTypePopupView .file-type-table td:nth-child(2) {
+  position: relative;
+}
+#fileTypePopupView .file-type-bullet-chart {
+  position: absolute;
+  left: 100px;
+  top: 11px;
+}

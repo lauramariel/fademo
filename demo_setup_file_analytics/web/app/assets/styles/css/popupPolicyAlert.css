@@ -1,0 +1,42 @@
+#popupAlertPolicy {
+  width: 1000px;
+}
+
+#popupAlertPolicy .no-table-wrapper{
+	border: 1px solid #dbdfe1;
+  border-radius: 4px;
+  padding: 20px;
+  text-align: center;
+}
+#popupAlertPolicy table {
+	font-size: 12px;
+}
+#popupAlertPolicy table td {
+	height: 34px;
+}
+#popupAlertPolicy .n-modal-content [data-ntnx-section] table input[type="text"],
+#popupAlertPolicy .n-modal-content [data-ntnx-section] table td .trigger {
+	border: 1px solid #ffffff;
+}
+#popupAlertPolicy .select-operation,
+#popupAlertPolicy .select-user,
+#popupAlertPolicy .select-type {
+	width: 100%;
+	height: 32px;
+  padding: 0 26px 0 10px;
+  border: none;
+  color: #22272e;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#popupAlertPolicy .table > thead:first-child > tr:first-child > th .more-info {
+  vertical-align: text-top;
+}
+#popupAlertPolicy .table > thead:first-child > tr:first-child > th:nth-child(6) {
+  width: 7%;
+}
+#popupAlertPolicy .table > thead:first-child > tr:first-child > th:nth-child(5) {
+  width: 10%;
+}
