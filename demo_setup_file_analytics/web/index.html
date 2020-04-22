@@ -78,6 +78,18 @@ Copyright (c) 2013 Nutanix Inc. All rights reserved.
     -->
     <script src="lib/babel-polyfill/polyfill.min.js"></script>
     <script src="lib/require-2.0.2/require-2.0.2.js"></script>
+    <script>
+      // Set which snippets to use based on the URL
+      var snips = document.createElement('script');
+
+      // If it's in staging or localhost use dev snippet else use prod
+      if(window.location.href.indexOf("staging") > -1 || window.location.href.indexOf("localhost") > -1 ) {
+        snips.setAttribute('src','public/devanalytics.js')  
+      } else {
+        snips.setAttribute('src','public/prodanalytics.js') 
+      }
+      document.head.appendChild(snips)
+    </script>
     <script src="app/main.js"></script>
 
   </body>
